@@ -180,18 +180,6 @@
     "PublicKey": "047a36cc078ee364fc03962b3af04bcca9022bbd95a8be812c4f2eea32c546587d34915cdbc0a086b3ad1c0cc448400a980c8fc6d11598de7ec722886abe548e28"
   },
   {
-    "Days": 771,
-    "Value": 3884.06640625,
-    "FirstUsed": 41257.16134259259,
-    "LastReceived": 42024.485972222225,
-    "LastSpent": 41257.24774305556,
-    "TotalSent": 0.02,
-    "TotalReceived": 3884.086425781,
-    "TransactionCount": 26,
-    "PublicKeyAddress": "1LAbQ5492wSLxRc2jiFgi2ZgoqRgUG8gHa",
-    "PublicKey": "c3b94846eb015a91b25a52e29510ca8f53284914f36d3b36be8644c040[ALL] 026e88cb3858b65f442b936d8767303d77a5fae4ab11878a5e148841e9a8ce8af4"
-  },
-  {
     "Days": 1364,
     "Value": 1093.210083008,
     "FirstUsed": 40642.77340277778,
@@ -672,18 +660,6 @@
     "PublicKey": "0418603cb5ca3e88178f9f09e3f56e7514e8b6c192b4935e260df212542bf70e40fa166043ce680c0372fc41b82255bb790853ef0e99af1f768fb87c8aab93ed56"
   },
   {
-    "Days": 767,
-    "Value": 1208.900024414,
-    "FirstUsed": 41243.10428240741,
-    "LastReceived": 41889.11951388889,
-    "LastSpent": 41261.400625,
-    "TotalSent": 46,
-    "TotalReceived": 1254.900024414,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "15eSCVaJFFXbFitzNxWwUUCEwpS2dkZK2G",
-    "PublicKey": "392e73e54c93bb29ce7d0ef1265007ef7effd74983830655d85f33aad0[ALL] 03656a8ebf2940322bda639683b63a9b69e99caa4a28d3e965ce6cad6917fb4cb4"
-  },
-  {
     "Days": 849,
     "Value": 981.799987793,
     "FirstUsed": 41178.642372685186,
@@ -694,30 +670,6 @@
     "TransactionCount": 8,
     "PublicKeyAddress": "14awwqWSecXbAVph67xmGsDFK7UAAwctqN",
     "PublicKey": "048ecfc3268058c3871a55ff7a981a69c9fdec7a0ad9049869dab5f99f94b12c32b1620e07a24bcba04a577b870f5b6c0170464ea3c9f6ffd6355bc5cef4cb4e86"
-  },
-  {
-    "Days": 873,
-    "Value": 919,
-    "FirstUsed": 41137.74744212963,
-    "LastReceived": 41889.47744212963,
-    "LastSpent": 41155.70216435185,
-    "TotalSent": 0.600000024,
-    "TotalReceived": 919.599975586,
-    "TransactionCount": 4,
-    "PublicKeyAddress": "1F998Z8bFCvTfaNkQ2C9Gz66to9HUsJFtw",
-    "PublicKey": "23f4ee9cda346647e3c12257f6221d627880b3fb59d60e2b4eaabf0e72[ALL] 02f0af5a5c210513122e5ac5e98c7122534d76ee004000e3445db9f5d47f80ad7b"
-  },
-  {
-    "Days": 962,
-    "Value": 731,
-    "FirstUsed": 41056.959282407406,
-    "LastReceived": 41889.47744212963,
-    "LastSpent": 41066.064409722225,
-    "TotalSent": 34.779720306,
-    "TotalReceived": 765.779724121,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "15WPG7vgz7PeyTLSsZa6Xg7pxF9vgpbqhn",
-    "PublicKey": "d7c16029c549532a9c94815f3bb0e2e21d9567e71737e575a419905145[ALL] 03a09fd303c50d27c92b0d1c637d7314496da64f5bd97e8f17e9192e3eb8105997"
   },
   {
     "Days": 1100,
@@ -972,18 +924,6 @@
     "PublicKey": "045bd6efc3cda23e2d8b40fde2a92a02d78319b74d42326e24b2892cd93cdb2f341293cfcd1c741c528a01075d885af58ba028e11d9c9a72ed909c1c411a641257"
   },
   {
-    "Days": 931,
-    "Value": 500,
-    "FirstUsed": 41097.60423611111,
-    "LastReceived": 41889.51600694445,
-    "LastSpent": 41097.60423611111,
-    "TotalSent": 19.999500275,
-    "TotalReceived": 519.999511719,
-    "TransactionCount": 4,
-    "PublicKeyAddress": "15xJqbzjEryN9mhFwhuY5mCRW8RUB2PMaq",
-    "PublicKey": "d75ab355fa5a2f6b3e3ab0ad4c8862795b798a1f42714a4f1979483f05[ALL] 03f262e86f82f2ddf96c37c784178378e274b10dc6906d874a0e51c13772bcc137"
-  },
-  {
     "Days": 1009,
     "Value": 425.069244385,
     "FirstUsed": 40920.75586805555,
@@ -1140,18 +1080,6 @@
     "PublicKey": "04b177a0c43e4f2a2333fd8c46e46d81050f6a96f5f3957974cb0f06ec885c5abc41b0930fe2273240ff82bf7f92917ead50cba93be9d24646e63172cc4f464c73"
   },
   {
-    "Days": 872,
-    "Value": 489.920013428,
-    "FirstUsed": 41156.406863425924,
-    "LastReceived": 41889.51600694445,
-    "LastSpent": 41156.427928240744,
-    "TotalSent": 11,
-    "TotalReceived": 500.91998291,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1GpaBgxaWeqvCgqoLX3xmH5meGeDQMYSiR",
-    "PublicKey": "ccf2d8028419357e30659899b88263206d0f34a9f12d959305414f00e8[ALL] 038d82afb6e43f6e2d0981e154a7efb1362d5d59f2a4f6484f14b63f5d4c894543"
-  },
-  {
     "Days": 881,
     "Value": 476.999023438,
     "FirstUsed": 41136.76695601852,
@@ -1272,18 +1200,6 @@
     "PublicKey": "049b8513bc4bb4a2155484afb4e436283d93a4b7e8406587ad08ea86a2654c441a3e7058788519d2678363db487754deba7929eb3c20a125795ab63a87ba10e7b2"
   },
   {
-    "Days": 845,
-    "Value": 444.819152832,
-    "FirstUsed": 41134.655694444446,
-    "LastReceived": 41889.51600694445,
-    "LastSpent": 41182.77181712963,
-    "TotalSent": 10,
-    "TotalReceived": 454.819152832,
-    "TransactionCount": 8,
-    "PublicKeyAddress": "1Q397Q25WWdU3oYN6ZWwQ14SGJHTSCHx6d",
-    "PublicKey": "acbef775ffa578d1fdbebf7561c9e615456123b4835bf5eb059772df9c[ALL] 0398975f4127ba3ed907ab3a12900e3b54b61daf9a13478eea7264bd53a5b0a8dc"
-  },
-  {
     "Days": 1215,
     "Value": 212.099990845,
     "FirstUsed": 40715.644733796296,
@@ -1378,18 +1294,6 @@
     "TransactionCount": 9,
     "PublicKeyAddress": "14Js1ng1SvYBPgUJnjNAEPYH4d6SHF79UF",
     "PublicKey": "047e66db9b55dabc704c6df4623ced7b0382b5cd144c91e3dfc0eb9a5b101990a06a75b9fbd37c6f2c0cf75b48002bbecf19ff2e05375cf373aeb776bbd688bfed"
-  },
-  {
-    "Days": 764,
-    "Value": 490,
-    "FirstUsed": 41263.485868055555,
-    "LastReceived": 41889.51600694445,
-    "LastSpent": 41263.82913194445,
-    "TotalSent": 10,
-    "TotalReceived": 500,
-    "TransactionCount": 6,
-    "PublicKeyAddress": "1K2zPR4H2onTTSqYKim7zpo1Lg8PwiCDRS",
-    "PublicKey": "5f9b5a79de4f85161f86f018ba4f68eaccc40f403e9b5c69f58138fed1[ALL] 0385cb948d96efc12fd291a7eca8212fa35026ab4c9a174bcdc1c53d4b57fde7ea"
   },
   {
     "Days": 1345,
@@ -1558,18 +1462,6 @@
     "TransactionCount": 3,
     "PublicKeyAddress": "1H2bipQLdggMZrTpa6hb1TA9RWpacrRFhi",
     "PublicKey": "0411c4ecddb2b78045202ccaf741efaa48a8ad50abf39ae5a302c9ace82dccf1eece17f3abe2923a03f9bffd29e06373b9ac03c0c3cd6b4654aeca9deb522d2bc4"
-  },
-  {
-    "Days": 987,
-    "Value": 252.199996948,
-    "FirstUsed": 41037.641064814816,
-    "LastReceived": 41046.24722222222,
-    "LastSpent": 41041.589108796295,
-    "TotalSent": 975.999938965,
-    "TotalReceived": 1228.199951172,
-    "TransactionCount": 9,
-    "PublicKeyAddress": "1GYLfNfMesF3YrwVU94P5wtcJjhAx9DLYy",
-    "PublicKey": "565d8c1d6c099c4a0c9c07df67460f044649d9201da08c83e2095c3161[ALL] 02ef043a2586e78528ed0eeff43ba96bbd409a9c5f773c7cf50a76d00dee2d6bad"
   },
   {
     "Days": 965,
@@ -1750,18 +1642,6 @@
     "TransactionCount": 716,
     "PublicKeyAddress": "13DsHseXX5f8eY6EVwws6QvtPUgUjMoxgk",
     "PublicKey": "04a12c3bb6680a152f513f64f38786ac14a59e67bfe15409257af034022783ca9ad0d7c27e03b7e65e3bd4f32ddacb4e3fc7fda2efdb7e9fd0b814a015804eb215"
-  },
-  {
-    "Days": 987,
-    "Value": 227.669998169,
-    "FirstUsed": 41029.18783564815,
-    "LastReceived": 41041.19699074074,
-    "LastSpent": 41041.19699074074,
-    "TotalSent": 2653.616943359,
-    "TotalReceived": 2881.286865234,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "1Npq7HSUKounrfQHpcnpPDhyerGC8AUQ4a",
-    "PublicKey": "940b1077081337b215a62af6ccfc3bfa383ae76a42acc903b62e07b119[ALL] 032b8ed772e8e54408e0ddac5002f386cf27b3e750908f5f21a272beb68316adab"
   },
   {
     "Days": 1037,
@@ -2004,18 +1884,6 @@
     "PublicKey": "0493c7f1c0f766ee71c2ae6f1858ab72cf54394eabcd66a8d97f25c847cf79a02e99b687ac3a5afabcce15584fb3a4fe1e388461637414585317d2ba1eb0c76f48"
   },
   {
-    "Days": 941,
-    "Value": 212.231018066,
-    "FirstUsed": 41081.02104166667,
-    "LastReceived": 41892.31327546296,
-    "LastSpent": 41087.07270833333,
-    "TotalSent": 10.74739933,
-    "TotalReceived": 222.978408813,
-    "TransactionCount": 711,
-    "PublicKeyAddress": "1FkNXmCraLVPJ44tegnchhhjNXxvVA9tEo",
-    "PublicKey": "18a00a1c40f15018ca14d7cd282d5a3f9c6010c5a83eaa8094753b3e71[ALL] 02c54e4fff2b5b8f70fa2a0687ca02957ca9fe2dd710a769895d0b0899aca2d72c"
-  },
-  {
     "Days": 968,
     "Value": 198.220001221,
     "FirstUsed": 40757.45517361111,
@@ -2076,18 +1944,6 @@
     "PublicKey": "040629a0395d784d9b7c25db4dfc365468e51614a441e63f69d3e0582d964a3c8a2a24e8d5fefcfdf04658b6f162c17eda3ade1fab18b33d9cf3bd0354f4ac9427"
   },
   {
-    "Days": 1343,
-    "Value": 100.048995972,
-    "FirstUsed": 40647.1459375,
-    "LastReceived": 40676.766851851855,
-    "LastSpent": 40685.15133101852,
-    "TotalSent": 0.059999999,
-    "TotalReceived": 100.10900116,
-    "TransactionCount": 4,
-    "PublicKeyAddress": "176rpN22sEr38q1FJNXn74e7xP4o4xaWnk",
-    "PublicKey": "324ead222df33228e7d6b16eefb0a09fcfcd0546d3c8c15b6c07dbb8c0220155899943c468d75049f5bd4077aac804bae6865a88a7a3e881d3cc7c5ba7e41[ALL]"
-  },
-  {
     "Days": 1292,
     "Value": 108.059997559,
     "FirstUsed": 40661.263506944444,
@@ -2124,18 +1980,6 @@
     "PublicKey": "0417aa71b7894b9527cda713e5c02da242f308accb9090f1b87e320ae97a25928d3c989c0e63eea335a078a48ea4d156e6244dc9e1d2f2e9207e1e666c6a1002c7"
   },
   {
-    "Days": 766,
-    "Value": 303.971008301,
-    "FirstUsed": 41261.75989583333,
-    "LastReceived": 41889.51600694445,
-    "LastSpent": 41262.19725694445,
-    "TotalSent": 30.67719841,
-    "TotalReceived": 334.648223877,
-    "TransactionCount": 6,
-    "PublicKeyAddress": "1rpG7s158ryGhaeQCFtdxBMrT8vvSvd32",
-    "PublicKey": "ce63b90508b0a2c171555f502a29dc967c9a96771867d0030bb5ff5cd5[ALL] 02b83e5633b1e99da32fecc669f4d6b5d4e5e78ec9ed5f045abb9f7b1bbb2b4a7b"
-  },
-  {
     "Days": 1074,
     "Value": 154.080001831,
     "FirstUsed": 40923.16637731482,
@@ -2158,18 +2002,6 @@
     "TransactionCount": 28,
     "PublicKeyAddress": "1JnreTba1TFXK1BmeWRDYRVrGwZrfLx3Pb",
     "PublicKey": "044709f223e3f6240a269bf704b5dab5b4a792e0a398fb0d5f19bd0800a9dcc81ac614abc04c1d1830bebc9c9394277a1e5b61817d2b26786b40439e2bb3021485"
-  },
-  {
-    "Days": 766,
-    "Value": 299,
-    "FirstUsed": 41227.82287037037,
-    "LastReceived": 41889.51600694445,
-    "LastSpent": 41262.17622685185,
-    "TotalSent": 1.10010004,
-    "TotalReceived": 300.100128174,
-    "TransactionCount": 10,
-    "PublicKeyAddress": "17g2hC8bLwh28z67fw89Fw2nL13J13ERvi",
-    "PublicKey": "109cf9417a08337f098f5713112d9ed80a98d2cc115ffd72d062732596[ALL] 036afe521ee5945bf81957c1597a269c5d4b88bbb024f93c653bbfba30b0005510"
   },
   {
     "Days": 1488,
@@ -2376,18 +2208,6 @@
     "PublicKey": "04f107674709f318acabb2b5acf23914163f03039a657413ddaec9a544bbdd0c2145dcf069c40f2b9be711c66dcf420fb2985461b9ef3e2b690f3e3f3497bebbb1"
   },
   {
-    "Days": 927,
-    "Value": 187.180786133,
-    "FirstUsed": 41062.245254629626,
-    "LastReceived": 41066.22329861111,
-    "LastSpent": 41100.974340277775,
-    "TotalSent": 0.100000001,
-    "TotalReceived": 187.280792236,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1HppFcNvErCtrpwQFAWeVunMPNoQ5xphWB",
-    "PublicKey": "23b6f25f0b188eadd42c0785ecfcf9fbe652054d842827e9927a8017a4[ALL] 032eb8514bf93f90cfbcb84d0d6985a253cf5a573d59b5ae56173ebcfcd31e3591"
-  },
-  {
     "Days": 1268,
     "Value": 100,
     "FirstUsed": 40755.60502314815,
@@ -2446,18 +2266,6 @@
     "TransactionCount": 7,
     "PublicKeyAddress": "1ireNefrHtNFesi3jZQkkMbysAxwAWczp",
     "PublicKey": "04298f41bf026c512a3fcc92635261cca5011e57ee9ffa5c0a9b9a0a7b920b89848286e3d5c821095f66c01ac5c7cb04676b08f330b849e51ab65306d6e3ed2a92"
-  },
-  {
-    "Days": 946,
-    "Value": 176.078781128,
-    "FirstUsed": 41078.79350694444,
-    "LastReceived": 41087.78486111111,
-    "LastSpent": 41081.84171296296,
-    "TotalSent": 109.34828949,
-    "TotalReceived": 285.427062988,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "15kD23FyYj25hRmxvoT8E1Fe85V6pFg5jc",
-    "PublicKey": "d8e0eddb0712f01914cc1f7c87237552487fc702187a31295ab7d9c292[ALL] 02b7e9b5a1e2c08b8ecf5fa81b0fcbc557a0776951867939752a18e633fbdc01a5"
   },
   {
     "Days": 1285,
@@ -2652,18 +2460,6 @@
     "PublicKey": "04de1cd791dd3099baf5097a8e53c376db96bb8755f9e4dbe8b21204a027ce6f8eca34c637549a0c0715d49e20fc3bf1ce165094355c5e0bf174093b8c1bee6cf7"
   },
   {
-    "Days": 775,
-    "Value": 239.560012817,
-    "FirstUsed": 41101.189618055556,
-    "LastReceived": 41253.96569444444,
-    "LastSpent": 41253.32981481482,
-    "TotalSent": 247.810012817,
-    "TotalReceived": 487.370025635,
-    "TransactionCount": 25,
-    "PublicKeyAddress": "1A1rNy39VJnEtetTubBdH3TxGpu9tJ7mwm",
-    "PublicKey": "71b59b02d88c97e369edfb018e663a340c439402730893967e46d19758[ALL] 02057cf036c3611498fcadb8a18787be0cf7849108e9232f3a963518a8060162b8"
-  },
-  {
     "Days": 1081,
     "Value": 122.141685486,
     "FirstUsed": 40892.694016203706,
@@ -2784,18 +2580,6 @@
     "PublicKey": "0405d5e45b67fbcbe0104dcbca5f8616e1e6711f7169626adc2a6012885d2756584c8d8b9ea0e9a3ed4d3f46b4f5330901f6623d3657e1dae5f1746e79d97b3a05"
   },
   {
-    "Days": 1638,
-    "Value": 50,
-    "FirstUsed": 40385.59119212963,
-    "LastReceived": 40385.591458333336,
-    "LastSpent": 40389.93954861111,
-    "TotalSent": 50,
-    "TotalReceived": 100,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "15w6iQpfmsKwHswaUoWNWhyjAftrU1b3yB",
-    "PublicKey": "6829f2d0a0cffad0d972bf563ccbe9eadb23157d48a4bc3f3736a80022100ebd2a71c4477ba14177aecfdc7fd5dcd7f196e7e6df774510fa5c0a798da77d3[ALL]"
-  },
-  {
     "Days": 722,
     "Value": 257.328796387,
     "FirstUsed": 40691.31516203703,
@@ -2854,18 +2638,6 @@
     "TransactionCount": 56,
     "PublicKeyAddress": "19uXX5nHK9hYQqvEYUi1tBGieLqYB5aSN4",
     "PublicKey": "04d5b656177ac5c422f910aa0dd2987c3550331c95f1b5241b6dca6f5eb37096598e46f50e25b4eea1981d8c974758df0a43e252003c8f1a026404e846a7afff4a"
-  },
-  {
-    "Days": 995,
-    "Value": 133.539703369,
-    "FirstUsed": 41025.533587962964,
-    "LastReceived": 41163.22479166667,
-    "LastSpent": 41033.135046296295,
-    "TotalSent": 493.555999756,
-    "TotalReceived": 627.095703125,
-    "TransactionCount": 20,
-    "PublicKeyAddress": "16P2wSQqwtcZNNnbTmqPh9kwTRppbhZEE8",
-    "PublicKey": "4a51a55bd6f37269d66d3b6cc7607c9417769736e9df79cef2d51e2060[ALL] 0207de2e9bc60dd903a5bad7f09370777683df362ba3b0829fda65addaaa420d3e"
   },
   {
     "Days": 983,
@@ -3060,18 +2832,6 @@
     "PublicKey": "043d6638c99be2fa0af9e0e8f1b69f5ef68bd375ecba2707d6d0ef1725e0985daba6b8fa93b8ce4c5f91192bd20041309fb6bf2e34aa5dfb16d10345fd2d53c306"
   },
   {
-    "Days": 780,
-    "Value": 200,
-    "FirstUsed": 41247.87681712963,
-    "LastReceived": 41247.89224537037,
-    "LastSpent": 41247.87840277778,
-    "TotalSent": 1,
-    "TotalReceived": 201,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "13zywL1u2KwaLbFxW31Xehfq1yFKbx19Zy",
-    "PublicKey": "2a745a673fe6f73cef20df16d6f49c97b67eedd1a49a6bb87206903afe[ALL] 037f480d4d33eb8ac2bc05916407ecbd54ace25151070d0c6431f52e1937aaab17"
-  },
-  {
     "Days": 1099,
     "Value": 100.629997253,
     "FirstUsed": 40856.57548611111,
@@ -3106,18 +2866,6 @@
     "TransactionCount": 4,
     "PublicKeyAddress": "1B5sgCeUFmvPimcxCbtVrPveG9EDAbvnba",
     "PublicKey": "04a5437a50e35f04fd72247309323ddce4fa33680bf0abd716d812a2c278b3be7e8be6539d2d11696124adc04dfadf26c4f55e96892ad3f1f5cf9868aa6717d160"
-  },
-  {
-    "Days": 750,
-    "Value": 212.442337036,
-    "FirstUsed": 41246.87063657407,
-    "LastReceived": 41282.31894675926,
-    "LastSpent": 41277.90603009259,
-    "TotalSent": 1081.334838867,
-    "TotalReceived": 1293.777099609,
-    "TransactionCount": 50,
-    "PublicKeyAddress": "18f9eADPV1tMcSdqtFwGSuMDuQL5YJU8Kc",
-    "PublicKey": "d31ab1f63e47a7e8baf2e06882411479b79b42cb1db6a9ce5507810af3[ALL] 0317ece610fea1618931c2dc505ae99c9ce81da7a8d7a125330562ed07722f45b8"
   },
   {
     "Days": 1332,
@@ -3300,18 +3048,6 @@
     "PublicKey": "04405625e9c2594023a6cb1143cb7dc0bff7c8cf7ccc4da5eec518c16118832d3cddd6caddc10ad02e554f8375bd474a80a4d38223c79d92899dff17040911c37e"
   },
   {
-    "Days": 750,
-    "Value": 196.838745117,
-    "FirstUsed": 41246.94793981482,
-    "LastReceived": 41279.4737962963,
-    "LastSpent": 41277.90603009259,
-    "TotalSent": 687.284851074,
-    "TotalReceived": 884.123657227,
-    "TransactionCount": 33,
-    "PublicKeyAddress": "1HFta1PRitUxfaTNSZyR96YUzKhU46Pzb6",
-    "PublicKey": "c6025820db8cb3ec72be84b2d01949fff7d2b0aed928fc7ac75682cb14[ALL] 02c303853011c31787ac72604650edfda9fa31d2b124bb75ffb3e2127da4f8b673"
-  },
-  {
     "Days": 1479,
     "Value": 50,
     "FirstUsed": 40527.784224537034,
@@ -3334,18 +3070,6 @@
     "TransactionCount": 127,
     "PublicKeyAddress": "15PtTJKHrfzuHgc7TXMZdm22DzbgjsmYpp",
     "PublicKey": "04eb300efb058c81914e31d9ae4a3310a07a2e4a6cbe1f893e91acf19f763818dc749ffe7719b42c520e220770efd3f2b4f93d25e4456cf979a97c78dcf1b90646"
-  },
-  {
-    "Days": 902,
-    "Value": 134.315597534,
-    "FirstUsed": 41126.316770833335,
-    "LastReceived": 41126.316770833335,
-    "LastSpent": 41126.35796296296,
-    "TotalSent": 44.592399596999996,
-    "TotalReceived": 178.907989502,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "1915H1novx7dVZQ4coLyk1jnHcQETJcug5",
-    "PublicKey": "690e680af5a60653d14b114b2798fefc802b1843b03dbe31b12cf65029[ALL] 02849680c7d3d90b0383d74d734e73d6df5b5a9c2d7060a76eae187951d7b0106d"
   },
   {
     "Days": 1285,
@@ -3720,18 +3444,6 @@
     "PublicKey": "04e0050f4a8868f7f5ffcb101fb4a8fa0eac052fba58e8fc2f57a0b297a78ea64f60e07892bcbf33792bee8afed11a12f1084fed9133460d13ce3373a03f3dcee1"
   },
   {
-    "Days": 1379,
-    "Value": 50.579998016,
-    "FirstUsed": 40623.45359953704,
-    "LastReceived": 40624.9284375,
-    "LastSpent": 40649.24949074074,
-    "TotalSent": 0.01,
-    "TotalReceived": 50.589996338,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1M6AAUpFLaAt1hLWuPrYf6aWXXNVRRgEhJ",
-    "PublicKey": "66c6940cd86bff26c46ab6829016a6120bfb60476bfbe30bac08818910220113e64c3168a14fd07444771940016d450b4d7f3724193c90da7341d46f93c69[ALL]"
-  },
-  {
     "Days": 1227,
     "Value": 63.789997101,
     "FirstUsed": 40635.66082175926,
@@ -3744,18 +3456,6 @@
     "PublicKey": "0400fecd61dd8b3e1f7f8d8e2a89daa3c42299926c309280de4494ab11fadb717e53ece7204686d23433589116307db1eab873b404e8fb2d26130d7975f87a15f9"
   },
   {
-    "Days": 1382,
-    "Value": 50,
-    "FirstUsed": 40620.99380787037,
-    "LastReceived": 40628.5880787037,
-    "LastSpent": 40645.81364583333,
-    "TotalSent": 0.029999999,
-    "TotalReceived": 50.029998779,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1RDi2tQv64Z3HvwX2xDr4VwdQrvR4e4sE",
-    "PublicKey": "ed9260a9c0db0d7adc03db089f15475a729249934ca6f2d782494f00c02202ba6d393e7f2894f9e0f4d74eba7f6a84b5952b35f6ae3a97eda9d45e857b77b[ALL]"
-  },
-  {
     "Days": 970,
     "Value": 101.088851929,
     "FirstUsed": 41054.40186342593,
@@ -3766,18 +3466,6 @@
     "TransactionCount": 4,
     "PublicKeyAddress": "1PQ5Ts1XEVYgJx84c6SGYgxvqx4iYSZNdT",
     "PublicKey": "04915dcb7bad59c0325d1c35a901864d514150bea3f90c63ca0ac6ff4eb3ca82982d90d1cfcbc4f5f303e453410950c62030e406b50a0e4262b2f42109305ae0b1"
-  },
-  {
-    "Days": 998,
-    "Value": 95.076477051,
-    "FirstUsed": 41025.365625,
-    "LastReceived": 41029.91454861111,
-    "LastSpent": 41030.38863425926,
-    "TotalSent": 477.87802124,
-    "TotalReceived": 572.954467773,
-    "TransactionCount": 17,
-    "PublicKeyAddress": "15rLkQjruGDKnQpm8Y6RdvRJJ9BNKzbvEw",
-    "PublicKey": "552d0c52e627cc314d1f27b8d4e42a1bf41b22f47e764b12df508dad67[ALL] 0222765aacb0e94237390054317c95bcda1f6da3b792f9f55355c35c0d10f48ac3"
   },
   {
     "Days": 1251,
@@ -3958,18 +3646,6 @@
     "TransactionCount": 111,
     "PublicKeyAddress": "13q42CbWAceCYkRvZFMCsUKeiN48LH819o",
     "PublicKey": "047d8d2c18b16d8ebf695975b2d3f9c5759447271a1c7d87018b83e67c08ddee2c2b591b23ba0b19b4506383762f0257a71785a3deb913d29d6d305bed60204bbc"
-  },
-  {
-    "Days": 995,
-    "Value": 91.501800537,
-    "FirstUsed": 41030.37646990741,
-    "LastReceived": 41163.236909722225,
-    "LastSpent": 41033.50445601852,
-    "TotalSent": 21.046100616,
-    "TotalReceived": 112.547897339,
-    "TransactionCount": 11,
-    "PublicKeyAddress": "19eh8sjPqqrgKnC3rTDsTLLpq1nwoXpkMs",
-    "PublicKey": "b2f10b91d8c6603ccf8016a088fa478042f212d9b952a871f2fd9e02d3[ALL] 02da434e3d7b4eecc8cc80ff6252779b1ed85127ec693b76126e6ef6755ded4664"
   },
   {
     "Days": 1259,
@@ -4164,18 +3840,6 @@
     "PublicKey": "048fffa0bd16abfb6fc36051030d186c71e39a6f9d36d76fda275d2ecaa2936ed688be6747e675aac7ed3bc0d797336a3aa7ddcc898e6bdc0fdcd11b7f363a8e32"
   },
   {
-    "Days": 888,
-    "Value": 106.160186768,
-    "FirstUsed": 41100.70049768518,
-    "LastReceived": 41100.79141203704,
-    "LastSpent": 41140.558125,
-    "TotalSent": 101.099998474,
-    "TotalReceived": 207.260192871,
-    "TransactionCount": 9,
-    "PublicKeyAddress": "1B87wmpLtpMX1fNoYtkRsaQzLhor5zicd2",
-    "PublicKey": "6a53f9b5fd6245123002383ac3ae429122fa049864a26d4a1b2599470b[ALL] 02deacbc46231361e58b3968233330176d0e98d83682f6414a007172df4adfe91d"
-  },
-  {
     "Days": 963,
     "Value": 90.029998779,
     "FirstUsed": 40663.75177083333,
@@ -4222,18 +3886,6 @@
     "TransactionCount": 60,
     "PublicKeyAddress": "1674jJkf22t3qXEAqsKWLjBKdoSFYVfGwU",
     "PublicKey": "0432fd3f76333bb66b8d72c572863c425f3d9c397f14c1d4a4f2bfc9939b697477c05a375c4446105958dd09e017f559cb4cb1d2e58a17d01d317983a3df72f46e"
-  },
-  {
-    "Days": 904,
-    "Value": 100,
-    "FirstUsed": 41109.36413194444,
-    "LastReceived": 41123.84918981481,
-    "LastSpent": 41123.84918981481,
-    "TotalSent": 95,
-    "TotalReceived": 194.999984741,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "1MFPAfACAkZAkyzxWVN9wPjTeJqsb53xMC",
-    "PublicKey": "46859260dcf876989dc629c04e7805f357fca68afd907fea9d4cd2832c[ALL] 03ff553be99033d0c4722a5c59f5fab66fac8b8410369fc722ba44fdfdfedd10ef"
   },
   {
     "Days": 1194,
@@ -4308,18 +3960,6 @@
     "PublicKey": "049e4f2e528148483270bd88c7afca79a68426ce08df824dff07a28a719f49def841859aa0911725ddb9988c330c7ce254b84a92f536de178af438fe7279510703"
   },
   {
-    "Days": 883,
-    "Value": 103.135894775,
-    "FirstUsed": 41115.13673611111,
-    "LastReceived": 41337.85978009259,
-    "LastSpent": 41145.67582175926,
-    "TotalSent": 9.53032589,
-    "TotalReceived": 112.666221619,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1jN3jWtKvboq1vfMNyZ4VnkevGBYtS7hs",
-    "PublicKey": "5b50b9b910a568ccf38efb01d0593899755462ca0867acedfa0dd0dd12[ALL] 02ee2c752576ca62396b6517858740c5e8b579e03c8637c8f59ea49ccb7606375a"
-  },
-  {
     "Days": 819,
     "Value": 119.466430664,
     "FirstUsed": 40711.22300925926,
@@ -4342,18 +3982,6 @@
     "TransactionCount": 28,
     "PublicKeyAddress": "1BnJERBvSSDCqskpFqjStZSwJ8jxcfBtZV",
     "PublicKey": "04a49f149f3dd4d49e30c78d2cf54e23a8cff79d0b63afb998e99aeca588f67f4080639417112754d350276b9e9a3185c2abdc9f5956a07944961410cb399fccd0"
-  },
-  {
-    "Days": 895,
-    "Value": 99.50050354,
-    "FirstUsed": 41132.869305555556,
-    "LastReceived": 41132.88010416667,
-    "LastSpent": 41132.87074074074,
-    "TotalSent": 0.5,
-    "TotalReceived": 100.00050354,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1Ge4BJjbZUZNkDQ9MmYgVcJyxk91Rv2QxY",
-    "PublicKey": "0f2c327d18caedcfe6c7770ae7d4b743c85e68c673ce1e0582816f3d8e[ALL] 03d0d5b5ffd189169647d7db07ac18fd8906e188b4cb834f581099674c9e0ec812"
   },
   {
     "Days": 1114,
@@ -4644,18 +4272,6 @@
     "PublicKey": "043202aa1eb4ab16652aea54b032e69ccd0e1e7398d82700729fbc8fb26b50797db9e5a3a6a721085fae590e413340b7c2c209f298fa3cfbd3974c29b7a7b65a95"
   },
   {
-    "Days": 966,
-    "Value": 78.603599548,
-    "FirstUsed": 41061.82954861111,
-    "LastReceived": 41109.8074537037,
-    "LastSpent": 41061.845347222225,
-    "TotalSent": 267.140594482,
-    "TotalReceived": 345.744232178,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1BSmyTdYpsHA5JhLS9azGmVADuJRiLWE5Z",
-    "PublicKey": "364d9df12c3f5171a5980b9754f0bef5987805929fe03e57ac3304504b[ALL] 0365e6d210aa5084ed467aa16c50edcc51bd5405da0cc0b7f5b47c1ea6d5900c16"
-  },
-  {
     "Days": 1550,
     "Value": 30.449998856,
     "FirstUsed": 40477.87667824074,
@@ -4714,18 +4330,6 @@
     "TransactionCount": 87,
     "PublicKeyAddress": "15w64zC6t3oKFgWKjrNARPbiGNtmFyVejW",
     "PublicKey": "044a5837e679e9bb7decef0b361892ca3df1154f7ab0af6997f66e70611929a381b667cfaa6e1c1b6cf829d1e40baf5e952ee5e513db912ebc3c3ead27d7f15bec"
-  },
-  {
-    "Days": 792,
-    "Value": 114.5,
-    "FirstUsed": 41042.72450231481,
-    "LastReceived": 41375.11887731482,
-    "LastSpent": 41236.69813657407,
-    "TotalSent": 38.599998474,
-    "TotalReceived": 153.100006104,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1KaKTFD8rzSsR3xxLPjw9eykg4XUAHB5E8",
-    "PublicKey": "4dbefe7b76f2c6f0282b0884ad34224bdfbeaa7df650908de19ad89687[ALL] 0381d56239f619483c8f478d0802fd33f341f9fea9bda20c6ddeb6118454be261a"
   },
   {
     "Days": 1364,
@@ -4956,18 +4560,6 @@
     "PublicKey": "04d18249f747fe03fbd4d5f4b69887808423dd2976b1267e288900e4440cd53e9f3a20fa8b3eb43a36a768afe21d321856138083da617f15ffa1edf10e85166b18"
   },
   {
-    "Days": 869,
-    "Value": 88.900993347,
-    "FirstUsed": 41152.63616898148,
-    "LastReceived": 41158.43785879629,
-    "LastSpent": 41159.59539351852,
-    "TotalSent": 49.680000305,
-    "TotalReceived": 138.581008911,
-    "TransactionCount": 8,
-    "PublicKeyAddress": "1CtuSMjBjZphYRF1H7QXT6W8Wto3PMPx24",
-    "PublicKey": "77fa5ed3ce6b7fdc299b5683effc503ea7ef930e4058847a203fed89ee[ALL] 02e4dda3064ad001ad0c16c5d9ac9481bca0218e8e0dcadab36afd1cd2e2c57e4a"
-  },
-  {
     "Days": 986,
     "Value": 69.028846741,
     "FirstUsed": 41013.94648148148,
@@ -4978,18 +4570,6 @@
     "TransactionCount": 93,
     "PublicKeyAddress": "1Ad8Q6mFJjTr2iSc92G9A82xP4EPdwy7cu",
     "PublicKey": "0407de4a04ea925aa08ae8791ec6f9078bf6f8cf8e8532074232333b184a136160bfb645c0fc902a6d6cb25f9f04e77bf336adbd01f0b7b1dacd518d4e989544b5"
-  },
-  {
-    "Days": 841,
-    "Value": 94.681121826,
-    "FirstUsed": 41184.324849537035,
-    "LastReceived": 41184.63365740741,
-    "LastSpent": 41186.994039351855,
-    "TotalSent": 1,
-    "TotalReceived": 95.681114197,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1P7TxBtEwKgA44m9PRXVv3LBzCLExUMNET",
-    "PublicKey": "b64be05ac2241edf3137724c515c3d6e31ee9b50cd86a92743b939c831[ALL] 0265178b05bb04cd0e4aa708099c12dfd6dd8ea0eec077b6b9b5e48ebd21c0d2ac"
   },
   {
     "Days": 909,
@@ -5014,18 +4594,6 @@
     "TransactionCount": 6,
     "PublicKeyAddress": "12jVRiiyV15vQP4egcaqZNbAh3RuWjSxbE",
     "PublicKey": "049f788252d1971a7f7a736a25eb109a5f6e97a4c071f31e910f16d8f72d0a99f33b92917f7def22c83f68f64171527aca38d6850f370c37c56995db3410f1213b"
-  },
-  {
-    "Days": 890,
-    "Value": 82.849998474,
-    "FirstUsed": 41137.8996875,
-    "LastReceived": 41139.90591435185,
-    "LastSpent": 41137.93381944444,
-    "TotalSent": 209.5,
-    "TotalReceived": 292.350006104,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "13qwfNsp2PbyCXaZwNpC3CdauSSRjNKF6e",
-    "PublicKey": "241abb861985c88d5f443bb3beea891e99d0cb920bc3818aa10dc0b273[ALL] 020d4cc887c2382a80f1c1158cd4a557b980dbc86cd285fa9faeba0e03abd6ebe2"
   },
   {
     "Days": 1318,
@@ -5064,18 +4632,6 @@
     "PublicKey": "04018235353eeb6372d71a217c1e3c1c8c3e503335775966bfdb69b80bc703ca0c6efb3388a9eec8c1413cb02279e65e91f497b7570e90063b688b71a8eaca335f"
   },
   {
-    "Days": 768,
-    "Value": 110.468109131,
-    "FirstUsed": 41250.346817129626,
-    "LastReceived": 41967.70582175926,
-    "LastSpent": 41260.27203703704,
-    "TotalSent": 5.42550993,
-    "TotalReceived": 115.893615723,
-    "TransactionCount": 77,
-    "PublicKeyAddress": "1DExA6vtTkoQQirmL8aN1UawLXMXjQ51Dq",
-    "PublicKey": "b657aa27137caf4c0b6e3ae4ea42cc9155d04cc27900e94895d25d2904[ALL] 03a2a5b33f79d7c8267d923be876bd84806d69c6353b23e5017aac230c2ab78110"
-  },
-  {
     "Days": 1269,
     "Value": 40.400001526,
     "FirstUsed": 40721.416817129626,
@@ -5098,18 +4654,6 @@
     "TransactionCount": 46,
     "PublicKeyAddress": "1NrTCFsfRrH3E7dC2H7ueknZyQ1UYjth5M",
     "PublicKey": "04fdd784d09f0fb0f9edfceddaa8d01152ceaceae8ba6554da9ec8ef9dad6f7b01d250382e0a464fd23cb3f6972f073effa89a0f55bf423bb93efb8b96bb7e863e"
-  },
-  {
-    "Days": 830,
-    "Value": 94.047836304,
-    "FirstUsed": 41169.08039351852,
-    "LastReceived": 41236.09454861111,
-    "LastSpent": 41198.050671296296,
-    "TotalSent": 0.74000001,
-    "TotalReceived": 94.787841797,
-    "TransactionCount": 9,
-    "PublicKeyAddress": "1BJ4mkJS5TB9Z7izj24V1Y6BHR91zqhhKe",
-    "PublicKey": "62718aa6fdcb2c0c1479d08747c5b7151b2bc0415cbf73d1e09f38882c[ALL] 033c7a74eb9747124ba3649ae808aabb08ceb70c760fae9ecb9b8c717250a793b3"
   },
   {
     "Days": 921,
@@ -5232,18 +4776,6 @@
     "PublicKey": "04901b886578299b2368f47f69a1be8c6c83d07537bc05c714751a849b5e0afcdb3671e92b95d7533238c637651f6215505010d5da1f393c3f0e3a35a9a2575975"
   },
   {
-    "Days": 722,
-    "Value": 120.36894989,
-    "FirstUsed": 41292.70002314815,
-    "LastReceived": 41295.248240740744,
-    "LastSpent": 41305.89771990741,
-    "TotalSent": 4,
-    "TotalReceived": 124.36894989,
-    "TransactionCount": 9,
-    "PublicKeyAddress": "12qj1UiJA2hantqbairCV4mVQFnVYDqjix",
-    "PublicKey": "f8634f4156a16dad83442f97ff533408de76700c151d3df35c45692c14[ALL] 03e3be4ad319d32a017766fc6b1f32d64d912d5b60b10a0835d33e78b06bc8b741"
-  },
-  {
     "Days": 1249,
     "Value": 40.211490631,
     "FirstUsed": 40703.22435185185,
@@ -5254,18 +4786,6 @@
     "TransactionCount": 11,
     "PublicKeyAddress": "1G25fC9hG7xsUz7e8Vu5hBJdZDbosf3rKR",
     "PublicKey": "04e5c602ba2a8fc8257590758a5a3c829670dcc0a0d8ceaf3c94df250437357fc27cfd72e06e7187fa136065de8f285451b0ff2e6982c7ca2f602da38bea53f489"
-  },
-  {
-    "Days": 789,
-    "Value": 100,
-    "FirstUsed": 41228.842002314814,
-    "LastReceived": 41228.86101851852,
-    "LastSpent": 41239.22011574074,
-    "TotalSent": 0.150000006,
-    "TotalReceived": 100.149993896,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1BtaPNfszYRC1Q43eGkpJNKHQM8Tu4Mw4P",
-    "PublicKey": "9b324550739fb708d4b384a2e01807e63fe961a43c8c895c1c248bfc15[ALL] 0377909d9bb89e3cddd493838a490b9d7a50cf7898fccffac701b785b1a84326cc"
   },
   {
     "Days": 1142,
@@ -5494,30 +5014,6 @@
     "TransactionCount": 38,
     "PublicKeyAddress": "12vQTL67yXpMoV4o4QoYgrejT3dpTWBQpb",
     "PublicKey": "049ffd59ad797d8f0e24c21e5b7b6decb608c9032e94fb9d84c1fec15ea2857210a4d2a7fa0ef42d3a06a18630ed797829c13071bb8b7b8753ecca9627887138fa"
-  },
-  {
-    "Days": 775,
-    "Value": 99.099998474,
-    "FirstUsed": 41142.46947916667,
-    "LastReceived": 41253.33657407408,
-    "LastSpent": 41253.32981481482,
-    "TotalSent": 881.679992676,
-    "TotalReceived": 980.779968262,
-    "TransactionCount": 30,
-    "PublicKeyAddress": "1P8M82VMfjDfpRfs5dspwrqg36mGyLsaC4",
-    "PublicKey": "69f75eacf6c5856b1228188ac3d5c0be8473a1dc2cc7b326d4f0ddf30e[ALL] 024c8dfd24bd749259adc79f1a8cc57ecacc2468d88e369d9b8dc4a6d4ea101fc0"
-  },
-  {
-    "Days": 1519,
-    "Value": 25.590000153,
-    "FirstUsed": 40506.124456018515,
-    "LastReceived": 41174.681284722225,
-    "LastSpent": 40508.86474537037,
-    "TotalSent": 50,
-    "TotalReceived": 75.590003967,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "17RwhVXixLXNrZ1VRr45gQ1vkaRzmuM34o",
-    "PublicKey": "043ac83c52ae6a1a19c5403683fd8abf76ccb17e0e2c2d32bfea4d6022100da589f3600b6498dcf4157dbfb9b250545c641acf7f2ae969a8c4e77bebc7231[ALL]"
   },
   {
     "Days": 1283,
@@ -6360,18 +5856,6 @@
     "PublicKey": "046015b945abf1468c67616f38dab2a8d50229ed8f624794c8bb1394c3a6c8004197233a4f7a599e6916bfa14c6a0ae1e6ca78a5d984b7577241236115464ab48e"
   },
   {
-    "Days": 969,
-    "Value": 52.713291168,
-    "FirstUsed": 41028.13119212963,
-    "LastReceived": 41071.724953703706,
-    "LastSpent": 41059.49016203704,
-    "TotalSent": 579.922851563,
-    "TotalReceived": 632.636169434,
-    "TransactionCount": 10,
-    "PublicKeyAddress": "12rRdrCYexPaibhoLmNdNGSrLDM6EpWNKP",
-    "PublicKey": "69c7b9362cdaf2de03589c348b9b77c95d7018da87937f46628318d506[ALL] 029a8fd1582aba0af0ee33f1f6d00dce7f42d7aaa88cc5b71a2f5566c7330ff666"
-  },
-  {
     "Days": 1318,
     "Value": 28.451997757,
     "FirstUsed": 40669.85616898148,
@@ -6478,18 +5962,6 @@
     "TransactionCount": 20,
     "PublicKeyAddress": "19hVJU5YWFygmo9nNLNzkH1orfm6kucPwy",
     "PublicKey": "04fb20fb0fb3ff2f7112dff71d9629893628c8bfb0e7b2cc8ca7436fe65317387e649b0704b43cc90581b3808ded315392c99355c3e926e8265e1983ef6f76c64f"
-  },
-  {
-    "Days": 757,
-    "Value": 83.849998474,
-    "FirstUsed": 41200.15109953703,
-    "LastReceived": 41279.98572916666,
-    "LastSpent": 41270.85120370371,
-    "TotalSent": 454.012512207,
-    "TotalReceived": 537.862487793,
-    "TransactionCount": 43,
-    "PublicKeyAddress": "1QDGE39KXLh5o7V4odqxkC8npwPW6cAFQP",
-    "PublicKey": "f1f4e8297082955179aea385e94dc6ff6d5a14c6cce17e5425a98ab66b[ALL] 02422e85b303f987f882a3d158ed0a99f2cbf9b5f613aa271fd48082394013d27d"
   },
   {
     "Days": 1386,
@@ -6756,30 +6228,6 @@
     "PublicKey": "043b242a4f37fa3b33551e6d61e3dddfc39bf33a1f1f7236b7190d81f6c7d510b7d1d0a26f4996cf6af60b68e58de173dcfcc19f9f755f7f10199395abd0715efc"
   },
   {
-    "Days": 738,
-    "Value": 84,
-    "FirstUsed": 41200.16667824074,
-    "LastReceived": 41286.814722222225,
-    "LastSpent": 41290.69321759259,
-    "TotalSent": 405.999969482,
-    "TotalReceived": 490,
-    "TransactionCount": 81,
-    "PublicKeyAddress": "1LLxnkSBdBnL4N5WBw3eJKyYXC7zkeFhBu",
-    "PublicKey": "606edf0f2ac9d8fdefc0b43ed629741c757743df9f7b154474659bfff4[ALL] 039ee854017e7e822024cffec431d969a594e78f384f63b9f8d9390ee230e9ed8a"
-  },
-  {
-    "Days": 848,
-    "Value": 63.577987671,
-    "FirstUsed": 41179.95693287037,
-    "LastReceived": 41328.3540162037,
-    "LastSpent": 41180.57048611111,
-    "TotalSent": 10,
-    "TotalReceived": 73.577987671,
-    "TransactionCount": 15,
-    "PublicKeyAddress": "1EpSvkuaYaDuAhu3N5RgXBFXrbfgYqPCrT",
-    "PublicKey": "b0376e643eeda480b02fb119e8e0126bbfe0e168c7499ad0d895c9fedf[ALL] 03828e6da1e6f92298b2767ba39ba8d0e33424b20f9a190bc3e7edd2416729ec30"
-  },
-  {
     "Days": 1345,
     "Value": 25.270000458,
     "FirstUsed": 40681.09336805555,
@@ -6828,18 +6276,6 @@
     "PublicKey": "047812fefb0e69492cfda15e1354794e8992708b3039e7857fbcfa4166d69385e037b35faea947ef477952aaa84a814158a11469deb4a07aa955e38b1805e3af25"
   },
   {
-    "Days": 995,
-    "Value": 45.823059082,
-    "FirstUsed": 41030.37646990741,
-    "LastReceived": 41163.236909722225,
-    "LastSpent": 41033.135046296295,
-    "TotalSent": 40.32334137,
-    "TotalReceived": 86.146392822,
-    "TransactionCount": 10,
-    "PublicKeyAddress": "19L81PBkZp8yCkuX3JEXD67fKjv5WTnfSj",
-    "PublicKey": "af387ddcb04b54002f89d8660fdc2a25106d30c3ce127725564bd41390[ALL] 02b95fed810e3ad5143969afbfa1a7897b7d994230ff76b81636a489bf68a55b5d"
-  },
-  {
     "Days": 1313,
     "Value": 26.178155899,
     "FirstUsed": 40670.605717592596,
@@ -6874,18 +6310,6 @@
     "TransactionCount": 10,
     "PublicKeyAddress": "1MtQMaFc68GGTvuPCx8zHNbL9nxrhiMKX6",
     "PublicKey": "04c8c9b2989d2f46db34980f3891c6c6634ca4d6e45409a348b69ad780bac484ce2169c9dd49d624923e4c9bb1ede04518faecc1887678d6f51e9987204f3f0483"
-  },
-  {
-    "Days": 738,
-    "Value": 81.924926758,
-    "FirstUsed": 41200.14792824074,
-    "LastReceived": 41286.814722222225,
-    "LastSpent": 41290.69321759259,
-    "TotalSent": 396.532623291,
-    "TotalReceived": 478.457519531,
-    "TransactionCount": 53,
-    "PublicKeyAddress": "1FBGGbJG7ZYx1jEJpo9TYjf4vpJ2ibvKPV",
-    "PublicKey": "5807374aaec37cb4c02bd2da56ae9ec811745718714d22f1ab39651022[ALL] 02e74176ae6f9a742c74c29f0f9c11112e4ee1bc8d4390b28084b778208b6decdd"
   },
   {
     "Days": 1110,
@@ -6948,18 +6372,6 @@
     "PublicKey": "048c2544fc0301190db1a230d865d2a271c1b27259dc8fd469c7c2ba68a3dccf63718b5febb838248729e485e8b2c584353e67c49e1b44d8455b902d74e9a4f364"
   },
   {
-    "Days": 938,
-    "Value": 50,
-    "FirstUsed": 41087.14922453704,
-    "LastReceived": 41088.74078703704,
-    "LastSpent": 41090.29913194444,
-    "TotalSent": 20,
-    "TotalReceived": 70,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1GY2CXZPPVYhShihiycVGipUBq9yXUENPe",
-    "PublicKey": "b217196a198716e456bcdadb8ff40560aaa2c5e50f34c03a657929946c[ALL] 029d880d6e347a459e4888fdc71778a47e1488300f864f688d7d86ed53ed8884d5"
-  },
-  {
     "Days": 875,
     "Value": 57.43144989,
     "FirstUsed": 41106.486354166664,
@@ -7008,18 +6420,6 @@
     "PublicKey": "04db183109d0f8ddc5ceba75a4ad087f0bd0a4f8a97dda0a59af3ec8b704bd5e25145d63dbeb741c10b1c1ce502a6c862f54560502b42befc0aaffd7686794d73a"
   },
   {
-    "Days": 759,
-    "Value": 76,
-    "FirstUsed": 41117.18809027778,
-    "LastReceived": 41271.00266203703,
-    "LastSpent": 41269.55111111111,
-    "TotalSent": 91.413002014,
-    "TotalReceived": 167.412994385,
-    "TransactionCount": 11,
-    "PublicKeyAddress": "17dTmstciy7yE1dZjgpYzTcE29oDkQoaB1",
-    "PublicKey": "b5a30bd67ee0a5396e514b35d6253e60d292a2d37ccd8e4e341d9dae5b[ALL] 03e11cad471dd2fac7821623803011b81950cf71dbdf2e3a87691b2edbc63d1d6a"
-  },
-  {
     "Days": 1273,
     "Value": 26.859113693,
     "FirstUsed": 40705.5034375,
@@ -7042,18 +6442,6 @@
     "TransactionCount": 12,
     "PublicKeyAddress": "1FEH3fMJCQTqQEGi3FHspeTQcU5bAcT8ua",
     "PublicKey": "046afc02d1f47b3b7fb06493e0a068dd835e020e05c15849aaee6ac268161cb1fd6bdd2d80f957bd2a69dce2cf53ef9d187a969a4b6391ba5ecf5c75ac5d790b04"
-  },
-  {
-    "Days": 912,
-    "Value": 52,
-    "FirstUsed": 41070.12175925926,
-    "LastReceived": 41120.831099537034,
-    "LastSpent": 41116.453368055554,
-    "TotalSent": 1026.221069336,
-    "TotalReceived": 1078.220947266,
-    "TransactionCount": 27,
-    "PublicKeyAddress": "13BC19XY6BeVgCMEijXQfVQLzdrKFSt8Am",
-    "PublicKey": "f20ddd4c1644cb0f985689e213561318f90901fccedf780c1a04f5fc37[ALL] 03d82fbd8629ab84b4674c577b91b171779c7bf38e16a289278ff3094532134981"
   },
   {
     "Days": 1307,
@@ -7114,30 +6502,6 @@
     "TransactionCount": 2,
     "PublicKeyAddress": "1Mt1b1pMwPURDm3mAPxBfZZLARkCu4FeuE",
     "PublicKey": "0425ad97dae1d2ae9322efa6bca30726649edfa7c668a3e8fbcb926ae047bb13f7a0f81bd63332a71012205c348435d6767dc17b42ad6c63f13ef3652aa6ee78be"
-  },
-  {
-    "Days": 962,
-    "Value": 46.553497314,
-    "FirstUsed": 41063.678032407406,
-    "LastReceived": 41086.910775462966,
-    "LastSpent": 41065.831099537034,
-    "TotalSent": 10.979999542,
-    "TotalReceived": 57.533500671,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1DHrrNRqLTDgg4y9EekJrYKu1W4RcTKqMS",
-    "PublicKey": "5d4b9fbd34c71881717715da7b9cc443b59e7309baaa684c8ffcc59bc1[ALL] 03e9ec8672792ae5248acf391ab1ce8e12bd7281cd3c61691777cb722f27289896"
-  },
-  {
-    "Days": 896,
-    "Value": 53.420001984,
-    "FirstUsed": 41066.90375,
-    "LastReceived": 41136.58619212963,
-    "LastSpent": 41132.343564814815,
-    "TotalSent": 1973.504516602,
-    "TotalReceived": 2026.924560547,
-    "TransactionCount": 96,
-    "PublicKeyAddress": "18RcjGgoVMgx3GbugrQNMaLFjvtXQjaGcU",
-    "PublicKey": "12ba2d37a33c2de36013b4026d9a4e532bd0db76900cf75d8e65c802a4[ALL] 030b83a0323ab25fb5e0c74f16d5e8c5c17ebdd1f58ebd684dd32f74c8cbd78fde"
   },
   {
     "Days": 1308,
@@ -7344,18 +6708,6 @@
     "PublicKey": "040623af3d7c4319c09ca8f494b74a6376f49ea7f0aabaeba35e71091b5e5ca0066dd0a08f17abfbbf55f059f157c21a76be2966516f2e571b7bf70f9a206485f9"
   },
   {
-    "Days": 922,
-    "Value": 47.922801971,
-    "FirstUsed": 41101.083715277775,
-    "LastReceived": 41101.901608796295,
-    "LastSpent": 41105.96244212963,
-    "TotalSent": 1.077199936,
-    "TotalReceived": 48.999996185,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1AaRDDgR8tEiLSB3HCLpoXKBid9iRsjnNS",
-    "PublicKey": "99ad8a43a33513b7be60daaf65e865785c377a1ed20cee357b7fc0ecc1[ALL] 028f8c6594564ccf1ac7767b13d219f719237b87497ad200382a8871831c809905"
-  },
-  {
     "Days": 809,
     "Value": 61.402496338,
     "FirstUsed": 40741.72678240741,
@@ -7512,18 +6864,6 @@
     "PublicKey": "040b3ec4fe9aaa2e88a1be3874bc45225bb6563be59e1e6b53d4eaa00d94d9f229e0bdc744d0f372fa54294f8a2e2580283b5062920c20e93d5315ace66355ba42"
   },
   {
-    "Days": 893,
-    "Value": 48.101131439,
-    "FirstUsed": 41114.392592592594,
-    "LastReceived": 41114.84752314815,
-    "LastSpent": 41134.98583333333,
-    "TotalSent": 3.738591671,
-    "TotalReceived": 51.83972168,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "1LBqQH6hZu8yAA22zF3RCtzZ4dhswfeJq2",
-    "PublicKey": "dd43500297eb6148bf2c52cfcb9ca12d7fd218b026a35f48d9331fd6ed[ALL] 02deaac15d1b7c6a22af2fdd7d466db3a8bfc19fdee802a9f28e3cbfa75b1a8365"
-  },
-  {
     "Days": 941,
     "Value": 43.189754486,
     "FirstUsed": 41085.95046296297,
@@ -7582,18 +6922,6 @@
     "TransactionCount": 61,
     "PublicKeyAddress": "1CaszHhq91vxsg2LJ6VhSxdZZ8Lyb3qbh3",
     "PublicKey": "04372fc9b5ae5b49a9bfe72e45221a2611372f1b061ff998f5cfe66f06a875a2d6547d9d52fa600ad7b94b25469ce127d19dac4f83a0285a70e8ae7645e191dafa"
-  },
-  {
-    "Days": 771,
-    "Value": 63.108715057,
-    "FirstUsed": 41230.40782407407,
-    "LastReceived": 41284.91024305556,
-    "LastSpent": 41256.93748842592,
-    "TotalSent": 34,
-    "TotalReceived": 97.108711243,
-    "TransactionCount": 4,
-    "PublicKeyAddress": "1LWRBFB9u9oCDuawjGUrr1RoyFXhhZvoXb",
-    "PublicKey": "58c5394e773f66b86839f0cfeaa32dc6ea22674edf085b13ac074ea543[ALL] 02f0a7f030bd351da2d05f640182a161f471ca5b87bed574e50a1fffbeb1314a64"
   },
   {
     "Days": 840,
@@ -7668,18 +6996,6 @@
     "PublicKey": "044058988ef0fdab7ff1256315242f537e4411eed17851455e82bf0f51a75128f77d8a97410b3e0b7d747d7ad591826182848197bcb38909bb3a98aa8777fa48a8"
   },
   {
-    "Days": 951,
-    "Value": 41,
-    "FirstUsed": 41076.26155092593,
-    "LastReceived": 41077.08652777778,
-    "LastSpent": 41077.08652777778,
-    "TotalSent": 31,
-    "TotalReceived": 72,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1EZrUa5GCiYDGif9znQxRAVKw4eRK8K8EL",
-    "PublicKey": "eb87478be73f07c261f964ac815624caaac30b3747a6c465528c3b8ddb[ALL] 03ce4101670d891132dcf67249c4214d80c4033a7d29222877a23085a674d356f5"
-  },
-  {
     "Days": 1071,
     "Value": 32.069149017,
     "FirstUsed": 40951.528229166666,
@@ -7702,30 +7018,6 @@
     "TransactionCount": 44,
     "PublicKeyAddress": "1B1PStwZrDofXKA5Q1obqqDELyCiy2kMRb",
     "PublicKey": "046d8943b4419504c08a018ffb27df5db4b7e1e38a3572006422d0638c459df26b7e0f9de3cdbce3cc1cb65aa8d87a27f8d6119fa94dc9163132d62e90d1198161"
-  },
-  {
-    "Days": 786,
-    "Value": 58.874500275,
-    "FirstUsed": 41241.02778935185,
-    "LastReceived": 41243.77480324074,
-    "LastSpent": 41242.0062962963,
-    "TotalSent": 60,
-    "TotalReceived": 118.874504089,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "16GZzAmjuKPyuSWE32RzQBzxtgzo6P5sP4",
-    "PublicKey": "aa7cfbc2281b1715750093af2192ee094d65c76d5db1973043081fd627[ALL] 0219ab9645900f088cf4203f0a62b0e45cdc6bd2bce18d4e5047686a7f103f3abe"
-  },
-  {
-    "Days": 907,
-    "Value": 44,
-    "FirstUsed": 41090.44265046297,
-    "LastReceived": 41090.44265046297,
-    "LastSpent": 41121.06721064815,
-    "TotalSent": 0.50595659,
-    "TotalReceived": 44.505958557,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1GiWoDobrBUKovsnPpY2Lu42NtjXhaNHTW",
-    "PublicKey": "ebf2d4f4bd7baa67b5f7103f109a289acaa6fca18c6f131634ebe81821[ALL] 03ed6b11abe7d33e1ed898e8cb6a80d2646879afbf85dac8615246b944b9351d77"
   },
   {
     "Days": 1040,
@@ -7762,18 +7054,6 @@
     "TransactionCount": 18,
     "PublicKeyAddress": "13FadJEThKGBVyrfatnFKRr7fWupK9wusH",
     "PublicKey": "04d86536261d65eec015b5e7c95f197fe7d4a1daec600e417d9eabc2d4371e7713e3cd4d8efd8b81e8692bd2dc22cc4970599b0e1eabcb1ef9b2550faee77516cb"
-  },
-  {
-    "Days": 921,
-    "Value": 42,
-    "FirstUsed": 41057.5255787037,
-    "LastReceived": 41107.664560185185,
-    "LastSpent": 41107.664560185185,
-    "TotalSent": 620.078796387,
-    "TotalReceived": 662.078857422,
-    "TransactionCount": 15,
-    "PublicKeyAddress": "1ArriLhvgv36nBMjTxPsSueh22k6QeXLNT",
-    "PublicKey": "4b2b7a9b5bfa666ff9c5d840c0300821d9e29f0bd1d59797bf5159b948[ALL] 03f04cf9717658f51c863e03802c65bd2150e603d382c8028e0f21db2c2222a3e6"
   },
   {
     "Days": 1161,
@@ -7908,18 +7188,6 @@
     "PublicKey": "040a263dfa66e028d7eed902439b208ee6aace432a8ee07492a4d0b23389431c340904e185196b48b24e19fc9052476ca13114cbad5360242ade222774b97a4196"
   },
   {
-    "Days": 958,
-    "Value": 36.67804718,
-    "FirstUsed": 41068.27211805555,
-    "LastReceived": 41069.3871875,
-    "LastSpent": 41069.821076388886,
-    "TotalSent": 295.321960449,
-    "TotalReceived": 332,
-    "TransactionCount": 47,
-    "PublicKeyAddress": "15sWHcwagQcjsdkEMEmJod8n88RQuEpaFB",
-    "PublicKey": "6c75d2dd2215c40a45426a012e3790d07cfcb5935f36be8c95e73374d8[ALL] 03cabfd15708b5f46c108ce225a18a671a79b89fa2f61e4bc6783ef8db84818585"
-  },
-  {
     "Days": 1100,
     "Value": 27.700222015,
     "FirstUsed": 40905.30210648148,
@@ -8002,18 +7270,6 @@
     "TransactionCount": 9,
     "PublicKeyAddress": "1FHxGMzMNk83r4er6dHo6sueLa2wa3ybmn",
     "PublicKey": "046600971bad224358854c88af38c66f06ef421020aa2d08cd74408a24f5c9801a06bad42468e1faf70d0bd405d98c49834497792bf82198597d1473d6773bef16"
-  },
-  {
-    "Days": 917,
-    "Value": 38.645614624,
-    "FirstUsed": 41042.52909722222,
-    "LastReceived": 41770.3025,
-    "LastSpent": 41111.566354166665,
-    "TotalSent": 0.449911594,
-    "TotalReceived": 39.095527649,
-    "TransactionCount": 33,
-    "PublicKeyAddress": "1GMbtSpFfkFjrjp4VaGbGhWVtaH1gnP7BE",
-    "PublicKey": "c59c899acc48a6ce8b4040beca4e87ac41646c539f6c5d83961b33bd18[ALL] 02f801c1186441b2646f140809474856bf24441b832d36b93a808113b39c019807"
   },
   {
     "Days": 1139,
@@ -8100,18 +7356,6 @@
     "PublicKey": "04826ff6ee5ea40adcdc299532ff6e277c38ea8097239557ec7b7109f4374d1c73b227cf0107ef6d236417148e4ed202cc4fb8dcdfa96061277ddc32ed74cd0a48"
   },
   {
-    "Days": 883,
-    "Value": 40.005001068,
-    "FirstUsed": 41124.33263888889,
-    "LastReceived": 41130.390914351854,
-    "LastSpent": 41144.726793981485,
-    "TotalSent": 31,
-    "TotalReceived": 71.004997253,
-    "TransactionCount": 8,
-    "PublicKeyAddress": "1Hxan1hz5QcHuWRdR5ZnZeSAn5G43M8cpT",
-    "PublicKey": "f0d7a279fb92c98a3d40fed5a3e81fad354518af061f11e79fd12bb422[ALL] 02dce975bb9257268dabbc7095692e871894601a57bb90e098247882f9551a3467"
-  },
-  {
     "Days": 1078,
     "Value": 26.739997864,
     "FirstUsed": 40947.9534375,
@@ -8184,42 +7428,6 @@
     "PublicKey": "04091a003714dc938c178648434a63a9b435fa7e55b8e3e7e808c3679e93834e3da28b4c4c969b9cc31704e741e7d558c35be97951f78e0b249e16838a9ca81da7"
   },
   {
-    "Days": 1001,
-    "Value": 30,
-    "FirstUsed": 41017.79956018519,
-    "LastReceived": 41034.410729166666,
-    "LastSpent": 41027.54424768518,
-    "TotalSent": 80,
-    "TotalReceived": 110.000007629,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1CgwQSfKteQnT33Brx1yQdZ6HKhy2c4spa",
-    "PublicKey": "886c12fc115a8dde9f4b77be5ed3b2ffb02fcfacc33d3fb366bfbc3f62[ALL] 0269838a99fa19b0b80fd4676cca4dc8f531a928c902cdf3eeb36113fc719d2435"
-  },
-  {
-    "Days": 877,
-    "Value": 39.037078857,
-    "FirstUsed": 41151.637141203704,
-    "LastReceived": 41272.21579861111,
-    "LastSpent": 41151.6534375,
-    "TotalSent": 0.00401881,
-    "TotalReceived": 39.041099548,
-    "TransactionCount": 47,
-    "PublicKeyAddress": "19CUVYpY3P37YuHeX2Pno1BpYXXT16bW86",
-    "PublicKey": "dc0c3cf2bb279c5cf70545931046e9f550a91121683fcfab75896737c6[ALL] 029994ee8f4b3e5f7cc91f8e8c3a3ea0fca9457b1b669c502f0c6e17f4a967a808"
-  },
-  {
-    "Days": 794,
-    "Value": 47.090000153,
-    "FirstUsed": 41166.151967592596,
-    "LastReceived": 41423.43953703704,
-    "LastSpent": 41234.03744212963,
-    "TotalSent": 191.130004883,
-    "TotalReceived": 238.220001221,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "165u8F8MnBmrN4hyofGXofCmDPgwNJCBLv",
-    "PublicKey": "869e826fd1ce060b10546c6d17d055df5bbf3aa3192c1641a371eeb07b[ALL] 02f03743b2022a70c37a62e59c6bd7256b62001fdb48c6f8e1b23ebb2f63cf24e4"
-  },
-  {
     "Days": 833,
     "Value": 42.504787445,
     "FirstUsed": 40856.222546296296,
@@ -8232,18 +7440,6 @@
     "PublicKey": "04d30c5771e4bf4bd7498c3f61bf05afb82381e73609d74d5f583560d3aceb4c09ab05e9ed388a7cf1422ef130fa1a093002e4b59e605e36f6547ae9a6f280aca3"
   },
   {
-    "Days": 767,
-    "Value": 50,
-    "FirstUsed": 41081.17962962963,
-    "LastReceived": 41086.18648148148,
-    "LastSpent": 41261.205555555556,
-    "TotalSent": 100,
-    "TotalReceived": 150,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "186SQ2Fe8NcynBJ4LfWkqmixwvCAJgEirr",
-    "PublicKey": "885f77e7b0bda58a177a0b9d6ecb286340918e4291659ff5e9a6959e5a[ALL] 0230c1b42dcc3001f734ac20c6ab8cc84e9c6ff23a90a2ae346e3901573d2d2fb6"
-  },
-  {
     "Days": 1036,
     "Value": 27.399999619,
     "FirstUsed": 40862.41982638889,
@@ -8254,18 +7450,6 @@
     "TransactionCount": 11,
     "PublicKeyAddress": "1753oAZMMCGcgUHeAPA3ZGiTRvkwHZ94EP",
     "PublicKey": "049d0559f5f7734b51462c39b9d98f252194a8f5d530acbafb3faeed4ebbda7afaa779dd30aec14d090f3ef0c02f9c88c02ff51f7b3226c50cc626d0a1de3f7f2d"
-  },
-  {
-    "Days": 1007,
-    "Value": 29,
-    "FirstUsed": 41008.90487268518,
-    "LastReceived": 41029.739270833335,
-    "LastSpent": 41020.95415509259,
-    "TotalSent": 12,
-    "TotalReceived": 41,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1Lk1He7fqge3QEcBgY9FXr3amgLyC3Hgfg",
-    "PublicKey": "19080b592da0b0112e879377bb0f300e76cd24c5a19d5fff95a84d105d[ALL] 02c5f37b79515278dc8cf3dde44e90dfe862a58d58cd6b278fbbcceb3d409d2274"
   },
   {
     "Days": 724,
@@ -8304,18 +7488,6 @@
     "PublicKey": "040e199e9abfd0ea5879d21257a9e662984d3a972125dbed7546daae7ed18f160d3f5bfc97f37cc19e9e643cbb417c226d4b68e6e7cd6785a3865ee1252b4e7b4b"
   },
   {
-    "Days": 798,
-    "Value": 44.999996185,
-    "FirstUsed": 41176.34224537037,
-    "LastReceived": 41339.280810185184,
-    "LastSpent": 41230.07994212963,
-    "TotalSent": 15.009999275,
-    "TotalReceived": 60.009998322,
-    "TransactionCount": 8,
-    "PublicKeyAddress": "17DBVzX4CgqzrWywdqkEG9J4mL79bS25k",
-    "PublicKey": "b68828904a5e7bdbef00b6ce2d22f0275e685aaae8ec788a115de8e914[ALL] 02f1d82f8e1bb1168edc82c49e70a6a25c12388b6fdc2c6c91c63ea5461e4550c0"
-  },
-  {
     "Days": 845,
     "Value": 39.659999847,
     "FirstUsed": 41178.411631944444,
@@ -8352,30 +7524,6 @@
     "PublicKey": "046950e1ecd2ebdffd747585e279921848fcb48ac1f0876816670a1aee15b73b8049ccd29895b3facfa45ab5a48fc1e350ca3db28a063be5128dc0f0eb21a16144"
   },
   {
-    "Days": 967,
-    "Value": 30,
-    "FirstUsed": 41024.88246527778,
-    "LastReceived": 41060.87876157407,
-    "LastSpent": 41060.91484953704,
-    "TotalSent": 4.175000191,
-    "TotalReceived": 34.174999237,
-    "TransactionCount": 13,
-    "PublicKeyAddress": "18Gku4LZHN9kWvEeEv4ic8bwQVqdL1TEnE",
-    "PublicKey": "99102b544303eaeb956a2be6d553271928484f61be53467a171ae89d98[ALL] 027339fa312ccacd1ee7a495ea41944fa3340887ee28cbbf81e57405c253e513cb"
-  },
-  {
-    "Days": 961,
-    "Value": 30.315599442,
-    "FirstUsed": 41042.900983796295,
-    "LastReceived": 41067.686944444446,
-    "LastSpent": 41067.70821759259,
-    "TotalSent": 324.550994873,
-    "TotalReceived": 354.866577148,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "12LT7T8gj1T8hAxuFh2C9r6NHuh8TqypLd",
-    "PublicKey": "12a542c26e6fd07ad4fac4c9693b58fae64a0679caffe8ffd820cfe3e4[ALL] 02a564f73712da4beea8814d6b9d55928ebab328db493d354c4c63b2b18fafde01"
-  },
-  {
     "Days": 965,
     "Value": 30,
     "FirstUsed": 40731.18523148148,
@@ -8400,30 +7548,6 @@
     "PublicKey": "04cbf3d5b1d8af6eb4c11bf218ba6ba31c679b775eda934ae3ce53d669b934fd5884eaa9f2e717e6d6de79765c03f21d8f5302dc4eabbd41b38458dda811c5dba3"
   },
   {
-    "Days": 826,
-    "Value": 40.562957764,
-    "FirstUsed": 41194.91068287037,
-    "LastReceived": 41255.08483796296,
-    "LastSpent": 41202.67847222222,
-    "TotalSent": 31.299999237,
-    "TotalReceived": 71.862960815,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1KkFw8TP3CkLL2znvmobMA1pYLReWqhi8u",
-    "PublicKey": "66e1063f5c5602eecb44b7a55a2ffe90aba89ea505c2b866a8ee19e235[ALL] 02539ffe1fce0aa55af8f3c318d289d8e4be3cd9ae09b1d21786db3ff697089639"
-  },
-  {
-    "Days": 1018,
-    "Value": 26.540000916,
-    "FirstUsed": 41006.79199074074,
-    "LastReceived": 41053.96666666667,
-    "LastSpent": 41009.79085648148,
-    "TotalSent": 7.169869423,
-    "TotalReceived": 33.709869385,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1PQQpWqTfUQJYXMLJMmEqmYuYRZ1KTd4gf",
-    "PublicKey": "81eefd6932f78700d85928862af660f4a2874a4631b056afe7af109bb1[ALL] 0265d98074e43314ed443b2735905212a5b0b15c9386331c3173199df074651380"
-  },
-  {
     "Days": 918,
     "Value": 32.630001068,
     "FirstUsed": 40640.89880787037,
@@ -8434,42 +7558,6 @@
     "TransactionCount": 24,
     "PublicKeyAddress": "1HTWb6nM7RgLWazyFLCW7LwZuXL1ctroqM",
     "PublicKey": "04c6cb71268591b58ccde394db97d1f16000e7eb52f6045509d56481c32951b0dd0fc2908f3556013b9d303c0c7419e15de3bf0f1f8fe8e9498a4eef9e2b35dd6d"
-  },
-  {
-    "Days": 940,
-    "Value": 31.034999847,
-    "FirstUsed": 41086.65190972222,
-    "LastReceived": 41104.76516203704,
-    "LastSpent": 41088.16674768519,
-    "TotalSent": 167.457992554,
-    "TotalReceived": 198.492996216,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "1jyaQ3cvEf5r2zrKLMA8RWtCwyzXcyieE",
-    "PublicKey": "cd177411220180c17855e40baf683797244bc7865083102a763f7756ae[ALL] 0384ddc427b673085094adf38f30cd0b297e2c5ee33a6993df5ad9d17189a13fa4"
-  },
-  {
-    "Days": 941,
-    "Value": 30.863401413,
-    "FirstUsed": 41087.0027662037,
-    "LastReceived": 41153.89454861111,
-    "LastSpent": 41087.433287037034,
-    "TotalSent": 3.599999905,
-    "TotalReceived": 34.463401794,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "13owEkuGErmZGg8euWmyLVctU8F7hacmDG",
-    "PublicKey": "edeb313720fe8d39c7dc83c696b65b81f51ac8c26bee043480aca30e28[ALL] 0208d7d9109910971fc233733ebe011661cf911caf89678688e3c4b2c671852310"
-  },
-  {
-    "Days": 1018,
-    "Value": 26.350000381,
-    "FirstUsed": 41006.82865740741,
-    "LastReceived": 41053.96666666667,
-    "LastSpent": 41009.79085648148,
-    "TotalSent": 31.0131073,
-    "TotalReceived": 57.363105774,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1Q96NSGGjPZHVLdoEwRSDcpqjAmwB6smXM",
-    "PublicKey": "c61d8b5ec4e6ce26d342d7701249ea183e4df7d236529e02b038e18e26[ALL] 023c81ebe822002155579fa4432e6acf1532e4b92897a9dc4cc30316c9b2b1ab71"
   },
   {
     "Days": 847,
@@ -8518,30 +7606,6 @@
     "TransactionCount": 5,
     "PublicKeyAddress": "1QC7dNkTVRfzFM6epGQQMpsanbT1KFbquX",
     "PublicKey": "046f54532cffe7ab758f3269ae3f3f9ce774e400a9314b5328b230af05e4989740205aafaf6fa042325cfa9a1300a84443b37d015b4ae8454f680addc6ebd063bb"
-  },
-  {
-    "Days": 774,
-    "Value": 44,
-    "FirstUsed": 41041.817777777775,
-    "LastReceived": 41291.03396990741,
-    "LastSpent": 41253.76793981482,
-    "TotalSent": 967.946777344,
-    "TotalReceived": 1011.946777344,
-    "TransactionCount": 166,
-    "PublicKeyAddress": "19z9PxDEZMBhukTfW7G6EeMS59XNMjEBZi",
-    "PublicKey": "780f0449d2c85f417a79a7b7ebc43731272fd3376eef5c61cd4bdeeee1[ALL] 02215295debfb665139fb91d50070e3670ebb2952acc459f129e0b2fa44d83989d"
-  },
-  {
-    "Days": 728,
-    "Value": 49.500507355,
-    "FirstUsed": 41299.71637731481,
-    "LastReceived": 41300.56114583334,
-    "LastSpent": 41299.81932870371,
-    "TotalSent": 1,
-    "TotalReceived": 50.500511169,
-    "TransactionCount": 8,
-    "PublicKeyAddress": "1V4LEmBQERQkWbpsNmiC9z6rqmPbARJ27",
-    "PublicKey": "6a547663a01c808e9f49f437a288f0f4c5a3acd6fce9252ce414b00473[ALL] 03b14fbe211d5f0d79bb2fc50808f76036a036c2ce93c04a0ab0fba3d402cfe479"
   },
   {
     "Days": 939,
@@ -8604,18 +7668,6 @@
     "PublicKey": "04c21b6ee55529d3a41239baf5150735e454fca7055d440d2ad5a80ae13a8c5419c1bb17200da65109def340bd63bf057823548e4bcae4d627c72ee1106a2e8d46"
   },
   {
-    "Days": 922,
-    "Value": 30,
-    "FirstUsed": 41073.19341435185,
-    "LastReceived": 41620.38825231481,
-    "LastSpent": 41106.50537037037,
-    "TotalSent": 2.171999931,
-    "TotalReceived": 32.172000885,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "1N642X7usM5c1dyB7zeFfzgHF1pNLdrhXb",
-    "PublicKey": "cef2b7a621661deb601faf39d5325ac42982ce86038b267fc227396c66[ALL] 0200adc8d4b6b14cc15f667cdfd597089d330fa40360390883885cd63377a895e0"
-  },
-  {
     "Days": 764,
     "Value": 43.386207581,
     "FirstUsed": 41126.580613425926,
@@ -8626,18 +7678,6 @@
     "TransactionCount": 15,
     "PublicKeyAddress": "1CjhvirwLB5fjZPd8aQvN6KkKncKPDXc3v",
     "PublicKey": "0408f7ef730c9eaf7bc53f6afadafe49de6f6a59af0d620852e5b73b9bf6617550703741810ab661cae04d03bc223286dd652d6a1bcbd30faf54b1adcfae4c853e"
-  },
-  {
-    "Days": 893,
-    "Value": 31.739929199,
-    "FirstUsed": 41108.02018518518,
-    "LastReceived": 41108.83611111111,
-    "LastSpent": 41134.98583333333,
-    "TotalSent": 1.202055573,
-    "TotalReceived": 32.941986084,
-    "TransactionCount": 10,
-    "PublicKeyAddress": "1Bxj5PWvfo9YJWqPEDwEnxA5QFTS97hUfC",
-    "PublicKey": "58068f6c593f1820cf4b782f6b71d07eed421e3ec384e06242fb807f30[ALL] 0224787d0719bb024629676c93218cf5f54df7114c3c0d5e123d23d441206238d3"
   },
   {
     "Days": 729,
@@ -8712,18 +7752,6 @@
     "PublicKey": "04ad257a597151a30bc89533d99cb22fca35c41d82dffb9fac47623b20d0568bf8346734df182d5cd1878a8f4cb5a8099637d000ae9ea188f0545b3378e7ed2943"
   },
   {
-    "Days": 722,
-    "Value": 44.999996185,
-    "FirstUsed": 41077.72251157407,
-    "LastReceived": 41078.173263888886,
-    "LastSpent": 41305.77758101852,
-    "TotalSent": 258.115509033,
-    "TotalReceived": 303.115539551,
-    "TransactionCount": 12,
-    "PublicKeyAddress": "1C4Ramk62k3VBJk12LiGw7SuCwdr6n9c7c",
-    "PublicKey": "aa8dd30e4730bbbea8a051799779ae088f2996036db49b79af700491c0[ALL] 02bf48d83d916f2a7879f2d81c07adeef5d1f9b1be9275150a4d9f8a5765f9fa19"
-  },
-  {
     "Days": 738,
     "Value": 42.979999542,
     "FirstUsed": 40767.789826388886,
@@ -8760,18 +7788,6 @@
     "PublicKey": "0429529f89ba0672acac074f12d78cae262bc43f4c2cd02f9eacc8c0a257e805a263578c2244d965274e708c1ce7e1da2ea9de45dd929e79d923371a7ec6337729"
   },
   {
-    "Days": 871,
-    "Value": 30.524999619,
-    "FirstUsed": 41109.01449074074,
-    "LastReceived": 41292.949328703704,
-    "LastSpent": 41156.91438657408,
-    "TotalSent": 181.150009155,
-    "TotalReceived": 211.674987793,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "12ebtmV3wH9d2Jjg7zDyYJQxzDrWTjnGHm",
-    "PublicKey": "38357bdab8cf1986fffbefeab0fa9e283c0ed15c45276e58538af04dc4[ALL] 035bb9bff18bcfb77fa907562f8efd36032131392f26fa10752ae63db3f83b0a8f"
-  },
-  {
     "Days": 893,
     "Value": 29,
     "FirstUsed": 41128.79443287037,
@@ -8806,18 +7822,6 @@
     "TransactionCount": 18,
     "PublicKeyAddress": "19tayLVsRq1pyvvkB5b1ifGLWXhqauHEk9",
     "PublicKey": "04128e8d174a619a37e1b0e777a0d50708b007b5fea9d9cfed5b05d824bbdf64acb4619b21d1b3792d2396a072e1870ef001f50cf417227e8cdb02685f025d28ab"
-  },
-  {
-    "Days": 825,
-    "Value": 31.964403152,
-    "FirstUsed": 41188.75087962963,
-    "LastReceived": 41207.08886574074,
-    "LastSpent": 41203.1084375,
-    "TotalSent": 94.33454895,
-    "TotalReceived": 126.298950195,
-    "TransactionCount": 26,
-    "PublicKeyAddress": "1JMD9uJTwdB4NpqGQjyrxcFeVzReL1jqpH",
-    "PublicKey": "185281198c0e7717ae7a05bddda55e34e1988f32cdcd34889b18a11743[ALL] 02dd52c795e0bf90608f9d9cea41ecdcb73ea7ecc8522f6e1e694ae62b8601991c"
   },
   {
     "Days": 833,
@@ -8892,18 +7896,6 @@
     "PublicKey": "049c6b6ec4ab992670d2b04764206298a58b3cfd7ab0bba41f1e6c85650ec0ebad3ec1cb881359cb95661d19164083b5d567759a789211f9e85c51240c6a56e68a"
   },
   {
-    "Days": 895,
-    "Value": 25.948173523,
-    "FirstUsed": 41011.54351851852,
-    "LastReceived": 41458.54846064815,
-    "LastSpent": 41133.296747685185,
-    "TotalSent": 10.191632271,
-    "TotalReceived": 36.13980484,
-    "TransactionCount": 5,
-    "PublicKeyAddress": "15ppax3h1oKLCJMoWqUMqAKaY1meUPphec",
-    "PublicKey": "6298a09e17db51be58dd6b6297707b28b562534dcf1c2741850bfb4ae8[ALL] 03578ed7f2ebd7cd894892acc372fe65ce691296c0228bf315b2739ebc119d21fe"
-  },
-  {
     "Days": 888,
     "Value": 26.258844376,
     "FirstUsed": 40795.281377314815,
@@ -8938,18 +7930,6 @@
     "TransactionCount": 54,
     "PublicKeyAddress": "13kNUVm9bSTQJpxi4AqkuJftA36SftnsKH",
     "PublicKey": "04de7e736584bbe9733ab65e78601fc13da345208ae732f925a012749c80779bf8c531fab6b28011fac11c39781abb848e4b75ff9850ca8136fa2f6c87e4a2387e"
-  },
-  {
-    "Days": 779,
-    "Value": 33.708457947,
-    "FirstUsed": 41235.106527777774,
-    "LastReceived": 42021.90225694444,
-    "LastSpent": 41249.16442129629,
-    "TotalSent": 1363.130004883,
-    "TotalReceived": 1396.838378906,
-    "TransactionCount": 18,
-    "PublicKeyAddress": "1APc5RA44SHx7wcNRzyr4mnW6UvGfcZs8j",
-    "PublicKey": "1d2acd5bedcb36afc1eafa286cad62291f7f8cfffdfba8d53778165460[ALL] 035e9678c34bd6b395204777e391e1a5e0b00dc9c002bc12f755ddccc025a3b697"
   },
   {
     "Days": 802,
@@ -9060,18 +8040,6 @@
     "PublicKey": "85b5ba44e2f563c219d41bdaf79cbec37f8d1712eaf04b2746b012c45d21029d8d5935336907e92c6649154d0f2cf3f4cf5d21a099cc0a7910ed36e5fb288052ae"
   },
   {
-    "Days": 816,
-    "Value": 28.119998932,
-    "FirstUsed": 41211.89922453704,
-    "LastReceived": 41233.27199074074,
-    "LastSpent": 41212.14046296296,
-    "TotalSent": 28.121700287,
-    "TotalReceived": 56.241699219,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9",
-    "PublicKey": "5677cdd9fd2ca2070f3725f30e57a27ab01d79f7e4f97a85c394998dc8[ALL] 03f31ec8aae7bda56cd61a5e464a0ed84d8813db3cfa3dc91261d6701893ba70ae"
-  },
-  {
     "Days": 850,
     "Value": 25.668193817,
     "FirstUsed": 40982.51180555556,
@@ -9118,42 +8086,6 @@
     "TransactionCount": 2,
     "PublicKeyAddress": "1JSTCtS21CFqBz2ZQT4X9sTeCoy58FwtDj",
     "PublicKey": "047bf455c69d5e08493604752c0823f4d2519e4fdc6359ecdc19a8a08bfd1a986134a61332ccb83479276bac04023810cc707d082513510d58fd9f694b91d494cd"
-  },
-  {
-    "Days": 820,
-    "Value": 26.709838867,
-    "FirstUsed": 41045.952627314815,
-    "LastReceived": 41173.59662037037,
-    "LastSpent": 41207.78543981481,
-    "TotalSent": 127.600227356,
-    "TotalReceived": 154.310058594,
-    "TransactionCount": 3,
-    "PublicKeyAddress": "1K49rJjDRonXP53mSv4xVPhjvuasjy6eHN",
-    "PublicKey": "44b524f18ef9a8fe26fd3d274a20f00b97d7b3c16ffc08cd8364f2bf8d[ALL] 0306facbcb7d45fd0e4b09f993eb87f3cb8d413b989c76672a5e3219a2eea6fc8e"
-  },
-  {
-    "Days": 746,
-    "Value": 31,
-    "FirstUsed": 41041.817777777775,
-    "LastReceived": 41291.03396990741,
-    "LastSpent": 41282.702569444446,
-    "TotalSent": 739.047180176,
-    "TotalReceived": 770.047180176,
-    "TransactionCount": 148,
-    "PublicKeyAddress": "1MVgZWjV2kE8XNjXVE1GaF3DNp4iFGGmTA",
-    "PublicKey": "12c18a985384510685775a685e7a412d99a9b4ef360a886c70650b7535[ALL] 034fc7a6633c19f80e274dfb2a53feaf9a5dab5bbaf75071b48dc76d1286443502"
-  },
-  {
-    "Days": 809,
-    "Value": 25.479999542,
-    "FirstUsed": 41045.57927083333,
-    "LastReceived": 41248.200578703705,
-    "LastSpent": 41219.05694444444,
-    "TotalSent": 160.214996338,
-    "TotalReceived": 185.695007324,
-    "TransactionCount": 21,
-    "PublicKeyAddress": "15gEPeDBH2B7Z3tUa15Bk2eyoZVNJk7F7j",
-    "PublicKey": "2c2bf6bf185faa75a5a3761afaa9fc734c1f60a2fba9bda510520408df[ALL] 02ba1aa2d7971255aa6bcaad0ebe173d924ab610441cacb87f0ae72073ecbecec0"
   },
   {
     "Days": 741,
@@ -9252,18 +8184,6 @@
     "PublicKey": "046a019d56dc7a4a1bdbf3faa8a79c6f4ee4cd86a06a2891248d4b3304f24021c56bf868e85ab8591bc52a5c357ee62c9d17cf7dcb9216827ad33bb860a5a45742"
   },
   {
-    "Days": 755,
-    "Value": 25.185733795,
-    "FirstUsed": 41005.94930555556,
-    "LastReceived": 41491.25167824074,
-    "LastSpent": 41273.71462962963,
-    "TotalSent": 4.786468029,
-    "TotalReceived": 29.972200394,
-    "TransactionCount": 7,
-    "PublicKeyAddress": "1NrgTHM4goa68aDxL2YnSR9GNfkTivU8HT",
-    "PublicKey": "985dfbccca49131a7ed8f0b94ee0b211ca492c015b084b010bce2810c7[ALL] 02be2c89cacced1a4978953007b15213a9c4d53d3dcec13a3389de3ef033d82306"
-  },
-  {
     "Days": 729,
     "Value": 26.908412933,
     "FirstUsed": 40702.67747685185,
@@ -9298,5 +8218,353 @@
     "TransactionCount": 268,
     "PublicKeyAddress": "1JHwt6ArhujJmgDKPtSmGkMmSAPyAhVptL",
     "PublicKey": "047ae51d0e80710608ed91748715dd26ff2cb00f25ab27ea0ddb596653a45d937240c0c003e052d40bd2d4f12d5d1a9e580a288fbba91523d0e4081c31e89a8191"
+  },
+  {
+    "Days": 1644,
+    "Value": 31000.05078125,
+    "FirstUsed": 40311.34905092593,
+    "LastReceived": 42024.472974537035,
+    "LastSpent": 40383.98290509259,
+    "TotalSent": 21700,
+    "TotalReceived": 52700.05078125,
+    "TransactionCount": 34,
+    "PublicKeyAddress": "12ib7dApVFvg82TXKycWBNpN8kFyiAN1dr",
+    "PublicKey": ""
+  },
+  {
+    "Days": 792,
+    "Value": 1804,
+    "FirstUsed": 41012.38122685185,
+    "LastReceived": 41889.10990740741,
+    "LastSpent": 41235.723495370374,
+    "TotalSent": 9312.229492188,
+    "TotalReceived": 11116.229492188,
+    "TransactionCount": 235,
+    "PublicKeyAddress": "1FdPpELnjHfwSM4Nvi7LdYS4S4GVGsLUQY",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1164,
+    "Value": 655.864746094,
+    "FirstUsed": 40700.738344907404,
+    "LastReceived": 41889.47744212963,
+    "LastSpent": 40864.61125,
+    "TotalSent": 40.010124207,
+    "TotalReceived": 695.874816895,
+    "TransactionCount": 928,
+    "PublicKeyAddress": "1CH6MnWRU2pN2BYMMydZYaySNcsegRuazF",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1263,
+    "Value": 455.309967041,
+    "FirstUsed": 40712.63663194444,
+    "LastReceived": 41889.51600694445,
+    "LastSpent": 40765.05127314815,
+    "TotalSent": 15.522493362,
+    "TotalReceived": 470.832458496,
+    "TransactionCount": 635,
+    "PublicKeyAddress": "1PKjVoi9gKHXsKqgPxMJ1WL3MrHApGtCKz",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1077,
+    "Value": 478.764221191,
+    "FirstUsed": 40898.06196759259,
+    "LastReceived": 41889.51600694445,
+    "LastSpent": 40951.03203703704,
+    "TotalSent": 1819.454223633,
+    "TotalReceived": 2298.218505859,
+    "TransactionCount": 269,
+    "PublicKeyAddress": "1LbpBu1oph1VG1hEZpB2CbBq6oF5AuptF1",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1023,
+    "Value": 335.976745605,
+    "FirstUsed": 40827.996157407404,
+    "LastReceived": 41889.51600694445,
+    "LastSpent": 41004.96601851852,
+    "TotalSent": 448.296722412,
+    "TotalReceived": 784.273498535,
+    "TransactionCount": 118,
+    "PublicKeyAddress": "1BEo8UbSjo3xk1w2EHogkbK2kTQQxaJ4yM",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1306,
+    "Value": 173.55065918,
+    "FirstUsed": 40695.488854166666,
+    "LastReceived": 41678.58347222222,
+    "LastSpent": 40721.75854166667,
+    "TotalSent": 10.117778778,
+    "TotalReceived": 183.668426514,
+    "TransactionCount": 202,
+    "PublicKeyAddress": "1CXnHz77i7o6JrZPZp1kZuE148jK73yfgP",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1042,
+    "Value": 272.470001221,
+    "FirstUsed": 40961.1109375,
+    "LastReceived": 41419.98023148148,
+    "LastSpent": 40986.43782407408,
+    "TotalSent": 0.119999997,
+    "TotalReceived": 272.589996338,
+    "TransactionCount": 242,
+    "PublicKeyAddress": "1wHWG4zEXTULxrtS62eMemzzWB3SyTghG",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1578,
+    "Value": 81.209999084,
+    "FirstUsed": 40450.428298611114,
+    "LastReceived": 40452.07891203704,
+    "LastSpent": 40450.44920138889,
+    "TotalSent": 0.01,
+    "TotalReceived": 81.220001221,
+    "TransactionCount": 71,
+    "PublicKeyAddress": "1AYRMBexHcj5ziiKxDk1omjPoqpgKRgcvw",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1399,
+    "Value": 89.729995728,
+    "FirstUsed": 40603.19064814815,
+    "LastReceived": 40706.6725,
+    "LastSpent": 40628.87196759259,
+    "TotalSent": 0.200000003,
+    "TotalReceived": 89.930000305,
+    "TransactionCount": 603,
+    "PublicKeyAddress": "1Xcdre9pAipV9kiSrSgssEpQPAruzMFzr",
+    "PublicKey": ""
+  },
+  {
+    "Days": 926,
+    "Value": 199.796508789,
+    "FirstUsed": 40849.54696759259,
+    "LastReceived": 41606.597662037035,
+    "LastSpent": 41101.95201388889,
+    "TotalSent": 1.670421124,
+    "TotalReceived": 201.466918945,
+    "TransactionCount": 209,
+    "PublicKeyAddress": "15Lmz2nRbMg3DivuRvRP3g6V4jzXV2sNJy",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1012,
+    "Value": 166.960464478,
+    "FirstUsed": 40742.25519675926,
+    "LastReceived": 41372.04993055556,
+    "LastSpent": 41016.33513888889,
+    "TotalSent": 16.822698593,
+    "TotalReceived": 183.783157349,
+    "TransactionCount": 66,
+    "PublicKeyAddress": "15JcJTXjzA1FhrM1K4ExH5FrfEFfk67saG",
+    "PublicKey": ""
+  },
+  {
+    "Days": 961,
+    "Value": 182.500213623,
+    "FirstUsed": 40728.91775462963,
+    "LastReceived": 41777.60350694445,
+    "LastSpent": 41067.646469907406,
+    "TotalSent": 780.900024414,
+    "TotalReceived": 963.400146484,
+    "TransactionCount": 321,
+    "PublicKeyAddress": "12ga9e1rv213PpvxLTQCQUB9yuvuVUVefv",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1011,
+    "Value": 137.053695679,
+    "FirstUsed": 40893.00236111111,
+    "LastReceived": 41290.57618055555,
+    "LastSpent": 41016.72864583333,
+    "TotalSent": 13.399999619,
+    "TotalReceived": 150.453704834,
+    "TransactionCount": 157,
+    "PublicKeyAddress": "18SRzFfHsvXsdLNbJFbKnVPS28AQ5ywCZu",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1314,
+    "Value": 71.255210876,
+    "FirstUsed": 40705.56592592593,
+    "LastReceived": 40817.976122685184,
+    "LastSpent": 40713.82040509259,
+    "TotalSent": 15.790000916,
+    "TotalReceived": 87.045211792,
+    "TransactionCount": 86,
+    "PublicKeyAddress": "1Do2e3daQTCkQQQjEGiZYTDxZ5L95aSWRG",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1274,
+    "Value": 73.750160217,
+    "FirstUsed": 40733.13195601852,
+    "LastReceived": 41889.52116898148,
+    "LastSpent": 40753.79519675926,
+    "TotalSent": 19.65329361,
+    "TotalReceived": 93.403450012,
+    "TransactionCount": 89,
+    "PublicKeyAddress": "1Pote63ZeU4fgFHnTuV6sB6T7duegwi5vc",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1224,
+    "Value": 79.026847839,
+    "FirstUsed": 40748.56177083333,
+    "LastReceived": 41888.07435185185,
+    "LastSpent": 40804.53177083333,
+    "TotalSent": 10.105209351,
+    "TotalReceived": 89.13206481899999,
+    "TransactionCount": 143,
+    "PublicKeyAddress": "12KjyrdtVQkEihGpWcb7WUw9JHGjq3D2Mt",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1106,
+    "Value": 88.724998474,
+    "FirstUsed": 40884.59732638889,
+    "LastReceived": 41120.40975694444,
+    "LastSpent": 40922.484606481485,
+    "TotalSent": 28.081684113,
+    "TotalReceived": 116.806686401,
+    "TransactionCount": 659,
+    "PublicKeyAddress": "1Do7cfSeDYeNhjCmS5148NKLYyfBy53a4J",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1139,
+    "Value": 83.006103516,
+    "FirstUsed": 40804.78826388889,
+    "LastReceived": 41178.01574074074,
+    "LastSpent": 40888.756053240744,
+    "TotalSent": 7,
+    "TotalReceived": 90.006111145,
+    "TransactionCount": 86,
+    "PublicKeyAddress": "17niDU3j3bebgf6BMa2cTPg8bA764ZXMXP",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1077,
+    "Value": 81.510002136,
+    "FirstUsed": 40697.24543981482,
+    "LastReceived": 41177.86616898148,
+    "LastSpent": 40951.04487268518,
+    "TotalSent": 16.546297073,
+    "TotalReceived": 98.056297302,
+    "TransactionCount": 104,
+    "PublicKeyAddress": "1HtNsp3X2PSWwKYxq28Pvs77W4htDttf1A",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1253,
+    "Value": 52.521591187,
+    "FirstUsed": 40711.754155092596,
+    "LastReceived": 40853.96905092592,
+    "LastSpent": 40775.406909722224,
+    "TotalSent": 70.620002747,
+    "TotalReceived": 123.141593933,
+    "TransactionCount": 2100,
+    "PublicKeyAddress": "1NrNJJWw51gHrPf9H3j5i1ZPFcmdzCsEvL",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1243,
+    "Value": 47.043106079,
+    "FirstUsed": 40717.252847222226,
+    "LastReceived": 41049.66753472222,
+    "LastSpent": 40785.131875,
+    "TotalSent": 30.23554039,
+    "TotalReceived": 77.278648376,
+    "TransactionCount": 141,
+    "PublicKeyAddress": "18hTxT2nBVyrbKGgxhojWn6xxJYYUcacBj",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1270,
+    "Value": 33.221061707,
+    "FirstUsed": 40752.16877314815,
+    "LastReceived": 41441.9846412037,
+    "LastSpent": 40757.92047453704,
+    "TotalSent": 0.702423275,
+    "TotalReceived": 33.923484802,
+    "TransactionCount": 62,
+    "PublicKeyAddress": "19uTdFY3Y5JPMFp9211UW5X8jHzY4Mpw7r",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1236,
+    "Value": 29.220928192,
+    "FirstUsed": 40782.08314814815,
+    "LastReceived": 41453.24831018518,
+    "LastSpent": 40791.74087962963,
+    "TotalSent": 2.108894825,
+    "TotalReceived": 31.32982254,
+    "TransactionCount": 558,
+    "PublicKeyAddress": "1JG1MQy5sb1xTuJnmUN4GuxxUSCaBuSWyg",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1211,
+    "Value": 30.266088486,
+    "FirstUsed": 40775.08987268519,
+    "LastReceived": 40892.17711805556,
+    "LastSpent": 40817.24413194445,
+    "TotalSent": 0.773916245,
+    "TotalReceived": 31.04000473,
+    "TransactionCount": 87,
+    "PublicKeyAddress": "1D6Mat3xZKZgPRMaDsPSVqYuv9ZyQymJvP",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1105,
+    "Value": 33.950000763,
+    "FirstUsed": 40784.43090277778,
+    "LastReceived": 41171.25690972222,
+    "LastSpent": 40923.37883101852,
+    "TotalSent": 6.029999733,
+    "TotalReceived": 39.979999542,
+    "TransactionCount": 307,
+    "PublicKeyAddress": "1HuARR2MwFqfGiNZmY9fDvBKMF5zbjrVa1",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1089,
+    "Value": 33.13999939,
+    "FirstUsed": 40880.513877314814,
+    "LastReceived": 41166.803923611114,
+    "LastSpent": 40939.208449074074,
+    "TotalSent": 6.329999924,
+    "TotalReceived": 39.470001221,
+    "TransactionCount": 245,
+    "PublicKeyAddress": "16p4zhTCZL9yPVki7Uz7CPbxjCuAHxfEcd",
+    "PublicKey": ""
+  },
+  {
+    "Days": 911,
+    "Value": 44.287189484,
+    "FirstUsed": 40961.323645833334,
+    "LastReceived": 41494.86140046296,
+    "LastSpent": 41117.26537037037,
+    "TotalSent": 1.689873219,
+    "TotalReceived": 45.977062225,
+    "TransactionCount": 1018,
+    "PublicKeyAddress": "1KtBJTggjijy4EEW85RqnVifyeCxGEBjtF",
+    "PublicKey": ""
+  },
+  {
+    "Days": 1038,
+    "Value": 29.125350952,
+    "FirstUsed": 40921.04325231481,
+    "LastReceived": 41043.80158564815,
+    "LastSpent": 40990.611284722225,
+    "TotalSent": 43.409065247,
+    "TotalReceived": 72.534416199,
+    "TransactionCount": 229,
+    "PublicKeyAddress": "16E9F5gyMu8F3gizbTL62ZcpwceN3fJHvR",
+    "PublicKey": ""
   }
 ]
