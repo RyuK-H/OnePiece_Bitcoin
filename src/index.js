@@ -1,5 +1,28 @@
 const axios = require('axios');
-const allDormatList = require('../data/SpentDromatList.json');
+const fs = require('fs');
+const SpentDromatList = require('../puredata/SpentDormatList.json');
+
+let publicKeyList = [];
+let errorAddressList = [];
+
+const writePublicKeyJSON = async () => {
+  const PUBKEYLIST = JSON.stringify(publicKeyList);
+  const ERRORLIST = JSON.stringify(errorAddressList);
+
+  fs.writeFile(`./data/PUBKEYLIST.json`, PUBKEYLIST, (err) => {
+    if (err) {
+      throw err;
+    }
+    console.log('PUBKEYLIST.json data is saved.');
+  });
+
+  fs.writeFile(`./data/ERRORLIST.json`, ERRORLIST, (err) => {
+    if (err) {
+      throw err;
+    }
+    console.log('ERRORLIST.json data is saved.');
+  });
+};
 
 const getSpentTX = async (address) => {
   return await axios
@@ -45,17 +68,29 @@ const getSigscript = async (address, tx) => {
     });
 };
 
-const findPublicKey = async (address) => {
+const findPublicKey = async (address, index) => {
   const spentTX = await getSpentTX(address);
 
   if (spentTX) {
     const scriptAsm = await getSigscript(address, spentTX);
-    const publicKey = scriptAsm.slice(-130);
+    const publicKey = scriptAsm.slice(-130); // [ALL] 이라는 string이 포함될 수 있어서 나중에 자르는게 좋음. API 문서가 없어서 어떤 의미인지는 모르겠음
+    const data = { ...SpentDromatList[index], PublicKey: publicKey };
 
-    console.log(publicKey);
+    publicKeyList.push(data);
   } else {
     console.log(`${address} No Public Key`);
+    errorAddressList.push(address);
   }
 };
 
-findPublicKey('1ChiG4QCNWhGkKQajyRmBobVJdua6hFyoD');
+const loopFindPublicKey = async () => {
+  for (let i = 0; i < SpentDromatList.length; i++) {
+    console.log(`Look up ${i} / ${SpentDromatList.length} ${SpentDromatList[i].PublicKeyAddress}`);
+    await findPublicKey(SpentDromatList[i].PublicKeyAddress, i);
+  }
+
+  console.log('Write JSON');
+  await writePublicKeyJSON();
+};
+
+loopFindPublicKey();
