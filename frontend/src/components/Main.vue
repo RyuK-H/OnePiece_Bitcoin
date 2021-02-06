@@ -1,10 +1,8 @@
 <template>
   <div class="animated-gif-container">
     <div class="grey-background flex-center">
-      <div class="desc-container">
-        <desc-modal></desc-modal>
-      </div>
-      <div class="data-container">
+      <desc-dialog></desc-dialog>
+      <div>
         <double-text
           title="Worker"
           :content="WorketCount">
@@ -21,12 +19,12 @@
 <script>
 
 import DoubleText from './DoubleText.vue'
-import DescModal from './DescModal.vue'
+import DescDialog from './DescDialog.vue'
 
 export default {
   components: {
     'double-text': DoubleText,
-    'desc-modal': DescModal
+    'desc-dialog': DescDialog
   },
   data () {
     return {
@@ -58,12 +56,6 @@ export default {
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.75);
   overflow: auto;
-}
-.desc-container {
-  width: 50%;
-}
-.data-container {
-  margin-top: 50px !important;
 }
 .animated-gif-container {
   background-image:url(../assets/D.gif);

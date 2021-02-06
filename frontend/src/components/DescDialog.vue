@@ -36,7 +36,11 @@
       </md-dialog-actions>
     </md-dialog>
 
-    <md-button class="md-primary md-raised" @click="showDialog = true">Show Dialog</md-button>
+    <md-speed-dial class="md-top-right" md-event="click" md-direction="bottom">
+      <md-speed-dial-target @click="showDialog = true">
+        <md-icon>contact_support</md-icon>
+      </md-speed-dial-target>
+    </md-speed-dial>
   </div>
 </template>
 
@@ -53,6 +57,8 @@ export default {
 </script>
 
 <style scoped>
+@import url("https://fonts.googleapis.com/css?family=Material+Icons");
+
 .modal-container {
   display: flex;
   justify-content: center;
