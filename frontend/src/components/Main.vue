@@ -58,12 +58,13 @@ export default {
   overflow: auto;
 }
 .animated-gif-container {
+  background-color: rgba(0, 0, 0);
   background-image:url(../assets/D.gif);
   width: 100vw;
   height: 100vh;
   position: relative;
   overflow: hidden;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
