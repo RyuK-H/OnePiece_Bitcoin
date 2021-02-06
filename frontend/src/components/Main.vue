@@ -1,42 +1,78 @@
 <template>
-  <div id="animated-gif-container">
-    <div class="Modal">
-      <p>Worker : 45</p>
-      <p>Processing Count : 21412412</p>
+  <div class="animated-gif-container">
+    <div class="grey-background flex-center">
+      <div class="desc-container">
+        <desc-modal></desc-modal>
+      </div>
+      <div class="data-container">
+        <double-text
+          title="Worker"
+          :content="WorketCount">
+        </double-text>
+        <double-text
+          title="Count"
+          :content="ProcessingCount">
+        </double-text>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
+
+import DoubleText from './DoubleText.vue'
+import DescModal from './DescModal.vue'
+
 export default {
-  name: 'HelloWorld',
+  components: {
+    'double-text': DoubleText,
+    'desc-modal': DescModal
+  },
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      worker: 23,
+      count: 214144131
+    }
+  },
+  computed: {
+    WorketCount () {
+      return this.worker.toLocaleString()
+    },
+    ProcessingCount () {
+      return this.count.toLocaleString()
     }
   }
 }
 </script>
 
 <style scoped>
-.Modal {
-  display: block;
-  position: fixed;
-  left: 0;
-  top: 0;
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.grey-background {
   z-index: 9999;
   width: 100vw;
   height: 100vh;
-  background-color: black;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.75);
   overflow: auto;
 }
-
-#animated-gif-container {
+.desc-container {
+  width: 50%;
+}
+.desc-background {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.data-container {
+  margin-top: 50px !important;
+}
+.animated-gif-container {
   background-image:url(../assets/D.gif);
   width:100vw;
-  height: 100vh; 
-  position: relative;       
+  height: 100vh;
+  position: relative;
   overflow: hidden;
   background-size: cover;
   background-repeat: no-repeat;
