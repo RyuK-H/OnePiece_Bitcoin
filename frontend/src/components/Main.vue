@@ -62,15 +62,12 @@ export default {
 .desc-container {
   width: 50%;
 }
-.desc-background {
-  background-color: rgba(0, 0, 0, 0.75);
-}
 .data-container {
   margin-top: 50px !important;
 }
 .animated-gif-container {
   background-image:url(../assets/D.gif);
-  width:100vw;
+  width: 100vw;
   height: 100vh;
   position: relative;
   overflow: hidden;
